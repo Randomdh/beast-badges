@@ -1,0 +1,900 @@
+
+================================================================================
+  PASS 1: TRAIT STRUCTURE
+================================================================================
+  Category-level traits (17): DNA, Top, Bottom, Footwear, Headwear, Eyes, Balaclava, Balaclava Style, Beasthood, Human, Ink, Accessory, Gemstone, Chain, Durag, Surfboard, Rare
+  Item-level trait types (204):
+
+  Accessory items:
+    Daisy: 234 tokens, 7 color variants
+    Mug: 191 tokens, 5 color variants
+    Bat: 184 tokens, 4 color variants
+    Skateboard: 134 tokens, 4 color variants
+    Apple: 133 tokens, 4 color variants
+    Book: 132 tokens, 4 color variants
+    Boombox: 122 tokens, 4 color variants
+    Quartz Pendant: 121 tokens, 6 color variants
+    Polaroid: 104 tokens, 3 color variants
+    Watch: 96 tokens, 5 color variants
+    Cereal: 84 tokens, 3 color variants
+    Donut: 84 tokens, 2 color variants
+    Boba Tea: 77 tokens, 3 color variants
+    Shopping Bag: 69 tokens, 3 color variants
+    Microphone: 61 tokens, 2 color variants
+    Fanny Pack: 60 tokens, 3 color variants
+    Picnic Basket: 58 tokens, 3 color variants
+    Laptop: 55 tokens, 2 color variants
+    Basketball: 49 tokens, 5 color variants
+    Flying V Guitar: 49 tokens, 2 color variants
+    Nanchaku: 39 tokens, 2 color variants
+    Sports Bag: 39 tokens, 3 color variants
+    Suitcase: 39 tokens, 4 color variants
+    Electric Guitar: 33 tokens, 2 color variants
+    Handbag: 32 tokens, 2 color variants
+    Croquet: 29 tokens, 3 color variants
+    Tennis Racket: 26 tokens, 2 color variants
+    Acoustic Guitar: 16 tokens, 3 color variants
+    Sign: 14 tokens, 1 color variants
+    Champions Cup: 10 tokens, 2 color variants
+
+  Bottom items:
+    Pants: 1508 tokens, 5 color variants
+    Rolled-Up Pants: 935 tokens, 4 color variants
+    Shorts: 866 tokens, 6 color variants
+    Ripped Jeans: 767 tokens, 3 color variants
+    Jeans: 653 tokens, 2 color variants
+    Rolled-Up Jeans: 420 tokens, 4 color variants
+    Cargo Pants: 404 tokens, 4 color variants
+    A-Line Skirt: 386 tokens, 36 color variants
+    Loose Shorts: 305 tokens, 4 color variants
+    Pleated Skirt: 290 tokens, 17 color variants
+    Suit Pants: 260 tokens, 22 color variants
+    Tech Joggers: 240 tokens, 4 color variants
+    Dress: 194 tokens, 17 color variants
+    Wrap-Around Skirt: 194 tokens, 15 color variants
+    Flare Skirt: 98 tokens, 9 color variants
+    High-Rise Shorts: 97 tokens, 8 color variants
+    Mini Skirt: 97 tokens, 9 color variants
+    Overall Dress: 97 tokens, 8 color variants
+    A-Line Dress: 96 tokens, 9 color variants
+    Baby Doll Dress: 96 tokens, 10 color variants
+    Box Pleats: 96 tokens, 8 color variants
+    Skirt: 94 tokens, 10 color variants
+    Leather Pants: 93 tokens, 3 color variants
+    Tech Pants: 72 tokens, 1 color variants
+    Corduroy Pants: 51 tokens, 5 color variants
+    Astronaut Bottom: 42 tokens, 8 color variants
+
+  Footwear items:
+    Casual Sneakers: 895 tokens, 4 color variants
+    Formal Shoe: 552 tokens, 4 color variants
+    Shell-Toe Sneakers: 436 tokens, 3 color variants
+    High-Top Sneakers: 300 tokens, 6 color variants
+    Hiking Boots: 262 tokens, 4 color variants
+    Desert Boots: 252 tokens, 3 color variants
+    Tech Sneakers: 240 tokens, 5 color variants
+    Clogs: 237 tokens, 4 color variants
+    Utility Boots: 222 tokens, 3 color variants
+    Sock Sneakers: 145 tokens, 4 color variants
+    Slides: 81 tokens, 3 color variants
+    Cowboy Boots: 54 tokens, 4 color variants
+    Gumboots: 45 tokens, 3 color variants
+    Slippers: 25 tokens, 3 color variants
+
+  Headwear items:
+    Rectangle Glasses: 697 tokens, 9 color variants
+    Aviator Glasses: 646 tokens, 3 color variants
+    Round Glasses: 639 tokens, 8 color variants
+    Headphones: 420 tokens, 3 color variants
+    Geometric Glasses: 254 tokens, 2 color variants
+    Bandana: 208 tokens, 8 color variants
+    Beanie: 201 tokens, 10 color variants
+    Chunky Glasses: 167 tokens, 2 color variants
+    Bucket Hat: 153 tokens, 12 color variants
+    Pixel Glasses: 140 tokens, 1 color variants
+    Headband: 106 tokens, 10 color variants
+    Boater Hat: 83 tokens, 5 color variants
+    Cowboy Hat: 68 tokens, 6 color variants
+    Pom Pom Beanie: 63 tokens, 8 color variants
+    Pantos Glasses: 58 tokens, 2 color variants
+    Hair Bow: 57 tokens, 5 color variants
+    Trucker Hat: 55 tokens, 7 color variants
+    Bandana Head Scarf: 41 tokens, 5 color variants
+    Flat Cap: 39 tokens, 5 color variants
+    Backward Six-Panel Cap: 35 tokens, 4 color variants
+    Six-Panel Cap: 34 tokens, 4 color variants
+    Flower Crown: 30 tokens, 3 color variants
+    Baseball Cap & Durag: 24 tokens, 6 color variants
+    Football Helmet: 17 tokens, 3 color variants
+    Chef Hat: 16 tokens, 2 color variants
+    Babushka Scarf: 14 tokens, 4 color variants
+    Bandana Bandit: 12 tokens, 2 color variants
+    Backwards Trucker Hat: 9 tokens, 2 color variants
+    Cowboy Hat & Durag: 7 tokens, 2 color variants
+    Backwards Hat: 1 tokens, 1 color variants
+
+  Top items:
+    T-Shirt: 704 tokens, 31 color variants
+    Blazer: 254 tokens, 25 color variants
+    Suit Jacket: 252 tokens, 21 color variants
+    Hoodie: 246 tokens, 13 color variants
+    Sweater: 235 tokens, 14 color variants
+    Polo Shirt: 224 tokens, 16 color variants
+    Sweater Vest: 210 tokens, 21 color variants
+    Tracksuit: 199 tokens, 19 color variants
+    Varsity Jacket: 195 tokens, 20 color variants
+    Long-Sleeve Top: 193 tokens, 16 color variants
+    Shirt Dress: 192 tokens, 9 color variants
+    Ape Suit: 187 tokens, 15 color variants
+    Singlet: 174 tokens, 4 color variants
+    Hoodie & Utility Vest: 170 tokens, 12 color variants
+    Sweater Vest & Shirt: 165 tokens, 12 color variants
+    Cardigan: 158 tokens, 15 color variants
+    Loose Hoodie Up: 158 tokens, 8 color variants
+    Loose Singlet: 141 tokens, 9 color variants
+    Open Shirt: 131 tokens, 11 color variants
+    Loose Sweater: 128 tokens, 14 color variants
+    Ruana: 121 tokens, 9 color variants
+    Shirt & Sweater: 117 tokens, 9 color variants
+    Work Shirt: 113 tokens, 10 color variants
+    Denim Vest: 112 tokens, 8 color variants
+    Sherpa Jacket: 112 tokens, 7 color variants
+    Apron & T-Shirt: 107 tokens, 8 color variants
+    Puffer Vest: 101 tokens, 7 color variants
+    Trench Coat: 98 tokens, 8 color variants
+    Boho Coat: 97 tokens, 10 color variants
+    Crop Top: 97 tokens, 9 color variants
+    Sweater & Blouse: 97 tokens, 10 color variants
+    Baby Doll Top: 96 tokens, 10 color variants
+    Blouse: 96 tokens, 10 color variants
+    Peacoat: 96 tokens, 7 color variants
+    Short-Sleeve Shirt: 96 tokens, 6 color variants
+    Leather Vest: 93 tokens, 6 color variants
+    Overall: 92 tokens, 6 color variants
+    Robot Suit: 92 tokens, 10 color variants
+    Shirt & Suspenders: 92 tokens, 7 color variants
+    Puffer Parka: 91 tokens, 6 color variants
+    Leather Jacket: 90 tokens, 7 color variants
+    T-Shirt & Napkin: 90 tokens, 6 color variants
+    Work Jacket: 90 tokens, 7 color variants
+    Biker Jacket & Turtleneck: 89 tokens, 7 color variants
+    Quilted Bomber: 89 tokens, 6 color variants
+    Suit Jacket & Waistcoat: 89 tokens, 7 color variants
+    Toon Shorts: 89 tokens, 5 color variants
+    Linen Top: 85 tokens, 5 color variants
+    Cape: 83 tokens, 6 color variants
+    Biker Jacket: 82 tokens, 6 color variants
+    Puffer Jacket: 82 tokens, 8 color variants
+    Loose Hoodie: 75 tokens, 4 color variants
+    Hoodie & Backpack: 74 tokens, 6 color variants
+    Utility Jacket: 73 tokens, 5 color variants
+    Tech Jacket: 72 tokens, 7 color variants
+    Bomber Jacket: 70 tokens, 6 color variants
+    Flannel Shirt: 69 tokens, 6 color variants
+    T-Shirt & Suspenders: 69 tokens, 4 color variants
+    Bathrobe: 68 tokens, 6 color variants
+    Boho Shirt: 68 tokens, 6 color variants
+    Overcoat: 68 tokens, 7 color variants
+    Denim Jacket: 67 tokens, 5 color variants
+    Plaid Shirt & Backpack: 67 tokens, 6 color variants
+    Open Shirt  & Turtleneck: 65 tokens, 5 color variants
+    Distressed Sweater: 61 tokens, 4 color variants
+    Rain Jacket: 60 tokens, 5 color variants
+    Satin Shirt: 60 tokens, 5 color variants
+    Loose T-Shirt: 57 tokens, 4 color variants
+    Cargidan & Shirt: 56 tokens, 5 color variants
+    Trucker Jacket: 55 tokens, 5 color variants
+    Short-Sleeve Shirt & Napkin: 54 tokens, 5 color variants
+    Basketball Singlet: 51 tokens, 5 color variants
+    Business Shirt: 48 tokens, 3 color variants
+    Layer T-Shirt: 48 tokens, 4 color variants
+    Raglan Tee: 48 tokens, 5 color variants
+    Bullet-Proof Vest: 47 tokens, 4 color variants
+    Shirt & Suspender: 47 tokens, 2 color variants
+    T-Shirt & Rocket: 46 tokens, 5 color variants
+    Lab Coat: 45 tokens, 3 color variants
+    Football Shirt: 43 tokens, 4 color variants
+    Astronaut Top: 42 tokens, 8 color variants
+    Tie-Dye T-Shirt: 42 tokens, 4 color variants
+    Chefs Uniform: 40 tokens, 4 color variants
+    Pyjama Shirt: 39 tokens, 4 color variants
+    Mesh Top: 36 tokens, 3 color variants
+    Shirt & Tie: 34 tokens, 3 color variants
+    Hawaiian Shirt: 31 tokens, 3 color variants
+    Tie-Dye Hoodie: 22 tokens, 2 color variants
+    Mesh Singlet: 20 tokens, 1 color variants
+    Silk Shirt: 20 tokens, 2 color variants
+    Utility Vest & Top: 16 tokens, 2 color variants
+    Sweater Vest & Blouse: 1 tokens, 1 color variants
+
+  unknown items:
+    Jacket: 201 tokens, 22 color variants
+    Work Pants: 113 tokens, 10 color variants
+    Sweater Vest & Blouse : 95 tokens, 9 color variants
+    Corduroy Blazer : 93 tokens, 8 color variants
+    Football Shirt : 47 tokens, 4 color variants
+    Bandana Front: 35 tokens, 3 color variants
+    Bottom : 23 tokens, 2 color variants
+    Angel: 3 tokens, 3 color variants
+    Demon: 3 tokens, 3 color variants
+    Lady Angel: 3 tokens, 3 color variants
+    Lord Angel: 3 tokens, 3 color variants
+    Yeti: 2 tokens, 2 color variants
+
+================================================================================
+  PASS 2: TOKEN COMPOSITION PATTERNS
+================================================================================
+  Tokens with Headwear: 4351 / 10000
+  Tokens with Accessory trait: 4148 / 10000
+  Tokens with Ink: 866 / 10000
+  Tokens with Gemstone: 142 / 10000
+  Tokens with Chain: 36 / 10000
+  Tokens with Surfboard: 18 / 10000
+  Tokens with Durag (standalone): 9 / 10000
+
+================================================================================
+  PASS 3: SINGLE-TOKEN BADGES — EXHAUSTIVE VERIFICATION
+================================================================================
+
+  --- 3A: BALACLAVA IDENTITY ---
+  All 24 balaclava types:
+    Ape: 469 tokens [grail: 29.0]
+    Beagle: 290 tokens [grail: 30.5]
+    Brown & Cream: 11 tokens [grail: 48.2]
+    Bull: 414 tokens [grail: 23.9]
+    Cat: 390 tokens [grail: 24.7]
+    Clown: 382 tokens [grail: 25.5]
+    Cocker Spaniel: 231 tokens [grail: 27.3]
+    Custom Female Hippies Tan Panda Balaclava: 7 tokens [grail: 3.8]
+    Deer: 411 tokens [grail: 27.0]
+    Hare: 420 tokens [grail: 28.0]
+    Hyena: 395 tokens [grail: 24.3]
+    Koala: 350 tokens [grail: 24.7]
+    Lopped-Ear Rabbit: 424 tokens [grail: 24.6]
+    Medieval: 40 tokens [grail: 30.9]
+    Original: 2090 tokens [grail: 25.2]
+    Panda: 403 tokens [grail: 25.2]
+    Piglet: 394 tokens [grail: 29.6]
+    Pooch: 345 tokens [grail: 22.4]
+    Raccoon: 342 tokens [grail: 24.5]
+    Robot: 432 tokens [grail: 29.5]
+    Sheep: 455 tokens [grail: 24.2]
+    Skull: 333 tokens [grail: 23.0]
+    Squirrel: 411 tokens [grail: 25.2]
+    Wolf: 313 tokens [grail: 26.2]
+  [C] Ape Gang — 469 tokens — Hold a beast with Ape balaclava
+  [C] Robot Gang — 432 tokens — Hold a beast with Robot balaclava
+  [C] Wolf Gang — 313 tokens — Hold a beast with Wolf balaclava
+  [R] Medieval Gang — 40 tokens — Hold a beast with Medieval balaclava
+  [C] Skull Squad — 333 tokens — Hold a beast with Skull balaclava
+  [C] Good Boy — 866 tokens — Hold a beast with dog balaclava (Beagle/Cocker Spaniel/Pooch)
+  [C] Panda Express — 403 tokens — Hold a beast with Panda balaclava
+  [C] Bull Run — 414 tokens — Hold a beast with Bull balaclava
+  [C] Cat Burglar — 390 tokens — Hold a beast with Cat balaclava
+  [C] Class Clown — 382 tokens — Hold a beast with Clown balaclava
+  [E] Brown & Cream — 11 tokens — Hold a beast with Brown & Cream balaclava — Rare colorway
+  [L] Custom Panda — 7 tokens — Hold a Custom Female Hippies Tan Panda Balaclava beast — Ultra-rare variant
+
+  --- 3B: BALACLAVA STYLE BADGES ---
+  [L] Battle Worn — 9 tokens — Hold a beast with Battle Worn White balaclava style — grail: 62.8
+  [E] Psychedelic Trip — 10 tokens — Hold a beast with Psychedelic balaclava style
+  [E] Leopard Print — 13 tokens — Hold a beast with Leopard balaclava style
+  [E] Gold Face — 10 tokens — Hold a beast with Gold balaclava style
+  [L] Skull Print — 9 tokens — Hold a beast with Skull Print balaclava style
+  [E] Red Metal — 10 tokens — Hold a beast with Red Metal balaclava style
+  [E] Cream Yellow — 16 tokens — Hold a beast with Cream Yellow balaclava style — grail: 62.4
+  [L] Charcoal Ghost — 2 tokens — Hold a beast with Charcoal & Gray balaclava style — Extremely rare
+  [L] Distressed — 6 tokens — Hold a beast with Distressed Black & White balaclava style
+  [L] Rusty — 7 tokens — Hold a beast with Rusty Teal balaclava style
+
+  --- 3C: COLOR COORDINATION ---
+  Color coordination counts (tokens with N+ traits matching a color):
+    black: 5+match=22, 4+match=204, 3+match=951
+    white: 5+match=0, 4+match=2, 3+match=71
+    red: 5+match=0, 4+match=0, 3+match=15
+    blue: 5+match=0, 4+match=9, 3+match=77
+    green: 5+match=0, 4+match=0, 3+match=1
+    pink: 5+match=0, 4+match=0, 3+match=20
+    orange: 5+match=0, 4+match=0, 3+match=2
+    yellow: 5+match=0, 4+match=0, 3+match=3
+    brown: 5+match=0, 4+match=0, 3+match=12
+    gray: 5+match=0, 4+match=1, 3+match=41
+    cream: 5+match=0, 4+match=0, 3+match=13
+    gold: 5+match=0, 4+match=0, 3+match=1
+    navy: 5+match=0, 4+match=1, 3+match=16
+    olive: 5+match=0, 4+match=0, 3+match=9
+    tan: 5+match=1, 4+match=10, 3+match=44
+  [E] Blackout — 22 tokens — Hold a beast with 5+ black-colored traits
+    Tokens: 631, 903, 979, 2091, 2258, 3414, 3419, 3498, 4490, 4528, 4603, 5222, 6090, 7989, 8913, 8915, 8955, 8975, 8994, 9262, 9397, 9927
+  [U] All Black Everything — 204 tokens — Hold a beast with 4+ black-colored traits
+  [E] Pink Gang — 20 tokens — Hold a beast with 3+ pink-colored traits
+    Tokens: 1932, 5167, 5415, 5442, 5446, 5908, 5920, 5945, 5970, 5971, 5973, 5975, 5984, 5986, 8183, 8361, 8487, 9903, 9908, 9926
+  [L] White Out — 2 tokens — Hold a beast with 4+ white-colored traits
+  [U] Color Coordinated — 226 tokens — Hold a beast with 4+ traits sharing any color
+
+  --- 3D: FULL SUITS (verified via scoring engine + manual check) ---
+  Suit families from scoring engine:
+    Tracksuit: 199 tokens
+    Ape Suit: 187 tokens
+    Robot Suit: 92 tokens
+    Astronaut: 42 tokens
+
+  Ape Suit verification:
+    Tokens with trait_type "Ape Suit": 187
+    Their Top values: Ape Suit
+    Their Bottom values: 
+    Scoring engine "Ape Suit" full suits: 187
+    Sample Ape Suit tokens (first 10):
+      Token 1002: Top:Ape Suit | Ape Suit:Leopard
+      Token 1005: Top:Ape Suit | Ape Suit:Blue & Beige
+      Token 1007: Top:Ape Suit | Ape Suit:Brown & Cream
+      Token 1008: Top:Ape Suit | Ape Suit:Black & Steel
+      Token 1016: Top:Ape Suit | Ape Suit:Green
+      Token 1017: Top:Ape Suit | Ape Suit:Gray
+      Token 1023: Top:Ape Suit | Ape Suit:Brown & Cream
+      Token 1024: Top:Ape Suit | Ape Suit:Black & Steel
+      Token 1027: Top:Ape Suit | Ape Suit:Ecru
+      Token 1029: Top:Ape Suit | Ape Suit:Black & Gray
+
+  Robot Suit verification:
+    Tokens with trait_type "Robot Suit": 92
+    Their Top values: Robot Suit
+    Their Bottom values: Robot Suit
+    With Top=Robot Suit AND Bottom=Robot Suit: 92
+
+  Astronaut verification:
+    Tokens with trait_type "Astronaut Top": 42
+    Tokens with trait_type "Astronaut Bottom": 42
+    With BOTH Astronaut Top AND Astronaut Bottom trait types: 42
+    Via category: Top=Astronaut Top AND Bottom=Astronaut Bottom: 42
+
+  Tracksuit verification:
+    Tokens with trait_type "Tracksuit": 199
+    Their Top values: Tracksuit
+    Their Bottom values: 
+
+  Formal Suit verification:
+    Top=Suit Jacket: 252
+    Bottom=Suit Pants: 341
+    Both (formal suit): 252
+    Top=Suit Jacket & Waistcoat + Bottom=Suit Pants: 89
+    Footwear=Formal Shoe: 552
+    Suit Jacket + Suit Pants + Formal Shoe: 19
+  [U] Ape Suit — 187 tokens — Hold a beast wearing an Ape Suit — Verified: trait_type "Ape Suit" = wearing the suit
+  [R] Full Mech — 92 tokens — Hold a beast with Robot Suit top + bottom
+  [R] Space Cadet — 42 tokens — Hold a beast with Astronaut top + bottom
+  [U] Trackstar — 199 tokens — Hold a beast wearing a Tracksuit — Verified: trait_type "Tracksuit" = wearing the suit
+  [U] Suited Up — 252 tokens — Hold a beast with Suit Jacket + Suit Pants
+  [E] Suited & Booted — 19 tokens — Hold a beast with Suit Jacket + Suit Pants + Formal Shoe
+
+  --- 3E: FASHION COMBINATIONS ---
+  [L] Cowboy — 4 tokens — Hold a beast with Cowboy Hat + Cowboy Boots
+    Tokens: 5946, 5975, 5980, 2491
+  Lab Coat tokens: 45
+  Lab Coat holders' headwear: {"Aviator Glasses":1,"Headphones":5,"Pom Pom Beanie":2,"Round Glasses":4,"3D Glasses":2}
+  [L] Lab Rat — 2 tokens — Hold a beast with Lab Coat + Pixel/3D Glasses
+    Tokens: 2695, 2743
+  [L] Head Chef — 0 tokens — Hold a beast with Chefs Uniform + Chef Hat
+    Tokens: 
+  [E] Skater — 24 tokens — Hold a beast with Skateboard + sneaker footwear
+  [U] Road Beast — 110 tokens — Hold a beast with Biker Jacket + Boots
+  [R] Prep School — 95 tokens — Hold a beast with Blazer/Sweater Vest + Formal Shoe
+  Surfboard tokens: 18, Slides: 81
+  [E] Surf's Up — 18 tokens — Hold a beast with Surfboard — Any surfboard counts
+  Spartan Helmet: 4, Medieval balaclava: 40
+  [L] Gladiator — 0 tokens — Hold a beast with Medieval balaclava + Spartan Helmet
+    Tokens: 
+  [L] Gridiron — 0 tokens — Hold a beast with Football Helmet + Football Shirt
+    Tokens: 
+
+  --- 3F: ACCESSORY BADGES ---
+  All 82 accessories:
+    80's Cellular Phone: 21 [grail: 23.1]
+    Acoustic Guitar: 16 [grail: 27.1]
+    Air Horn: 36 [grail: 9.1]
+    Apple: 133 [grail: 25.3]
+    Axe: 43 [grail: 25.5]
+    Balloon: 60 [grail: 25.7]
+    Baseball: 18 [grail: 39.7]
+    Basketball: 49 [grail: 30.4]
+    Bat: 184 [grail: 26.0]
+    Bat Wood : 19 [grail: 32.5]
+    Beads: 153 [grail: 30.8]
+    Belt & Chain: 49 [grail: 28.1]
+    Bitcoin: 39 [grail: 27.1]
+    Black Ceramic Watch: 13 [grail: 33.6]
+    Blue Glass Flask: 16 [grail: 36.1]
+    Boba Tea: 77 [grail: 23.3]
+    Bomb: 50 [grail: 24.1]
+    Book: 132 [grail: 23.0]
+    Boombox: 122 [grail: 26.1]
+    Bow Tie: 44 [grail: 24.4]
+    Burger: 43 [grail: 37.6]
+    Calculator: 31 [grail: 29.8]
+    Camera: 65 [grail: 22.9]
+    Cereal: 84 [grail: 27.4]
+    Chain: 65 [grail: 30.0]
+    Champions Cup: 10 [grail: 27.7]
+    Chunky Gold Chain: 46 [grail: 32.5]
+    Croquet: 29 [grail: 28.5]
+    Crowbar: 56 [grail: 30.5]
+    Cuban Chain Silver: 71 [grail: 26.6]
+    Daisy: 243 [grail: 23.4]
+    Donut: 84 [grail: 24.6]
+    Dumbell: 37 [grail: 38.1]
+    Electric Guitar: 33 [grail: 26.8]
+    Ethereum: 51 [grail: 19.3]
+    Fanny Pack: 60 [grail: 18.6]
+    Flying V Guitar: 49 [grail: 31.7]
+    Football: 4 [grail: 10.7]
+    Game Controller: 55 [grail: 24.0]
+    Gemstone: 142 [grail: 30.1]
+    Gold Bars: 29 [grail: 32.0]
+    Gold Necklace: 60 [grail: 18.6]
+    Gold Watch: 93 [grail: 35.4]
+    Green Glass Flask: 15 [grail: 10.7]
+    Hand Mirror: 17 [grail: 31.1]
+    Handbag: 32 [grail: 26.7]
+    Heavy Chain: 81 [grail: 26.4]
+    Heavy Chain Necklace: 48 [grail: 14.8]
+    Ice Cream: 23 [grail: 32.7]
+    Laptop: 55 [grail: 34.9]
+    Lasso: 15 [grail: 15.6]
+    Mallet: 3 [grail: 14.1]
+    Microphone: 61 [grail: 29.3]
+    Money Bag: 41 [grail: 20.8]
+    Money Stacks: 76 [grail: 31.5]
+    Mug: 191 [grail: 22.4]
+    Nanchaku: 39 [grail: 16.4]
+    Pearls: 90 [grail: 30.1]
+    Picnic Basket: 58 [grail: 18.6]
+    Polaroid: 104 [grail: 25.2]
+    Purple Glass Flask: 14 [grail: 29.5]
+    Quartz Pendant: 121 [grail: 23.8]
+    Rugby Ball: 5 [grail: 37.3]
+    Shopping Bag: 69 [grail: 22.8]
+    Sign: 14 [grail: 33.7]
+    Silver Chain: 83 [grail: 22.0]
+    Skateboard: 134 [grail: 23.5]
+    Sling Bag: 41 [grail: 26.8]
+    Soda: 62 [grail: 20.1]
+    Spatula: 12 [grail: 28.4]
+    Spatula & Fries: 9 [grail: 18.2]
+    Spiked Wrist Bands: 81 [grail: 26.4]
+    Sports Bag: 39 [grail: 20.9]
+    Spray Can: 45 [grail: 21.9]
+    Suitcase: 39 [grail: 21.8]
+    Surfboard: 18 [grail: 26.3]
+    Tennis Racket: 26 [grail: 27.3]
+    Thumbs Up: 10 [grail: 11.0]
+    Toon Dumbell: 2 [grail: 48.5]
+    Two Thumbs Up: 39 [grail: 28.9]
+    Wallet Chain: 48 [grail: 14.8]
+    Watch: 96 [grail: 25.3]
+  [C] Armed & Dangerous — 391 tokens — Hold a beast with weapon accessory (Bat/Nanchaku/Crowbar/Bomb/Axe/Bat Wood)
+    Breakdown: Bat:184, Nanchaku:39, Crowbar:56, Bomb:50, Axe:43, Bat Wood:19
+  [R] Vandal — 45 tokens — Hold a beast with Spray Can
+  [U] Boombox Beast — 122 tokens — Hold a beast with Boombox
+  [R] Crypto Native — 90 tokens — Hold a beast with Bitcoin or Ethereum accessory
+  [U] Money Moves — 146 tokens — Hold a beast with Money Stacks, Gold Bars, or Money Bag
+  [U] Band Practice — 281 tokens — Hold a beast with guitar, microphone, or boombox
+  [U] Sports Beast — 123 tokens — Hold a beast with sports equipment
+  [U] Bookworm — 218 tokens — Hold a beast with Book, Laptop, or Calculator
+  [C] Snack Attack — 718 tokens — Hold a beast with food/drink item
+  [U] Shutterbug — 167 tokens — Hold a beast with Camera or Polaroid
+
+  --- 3G: GEMSTONES & CHAINS ---
+  Gemstone types: Diamond, Emerald, Ruby, Sapphire
+    Diamond: 55 [grail: 29.8]
+    Emerald: 32 [grail: 32.0]
+    Ruby: 30 [grail: 41.4]
+    Sapphire: 25 [grail: 23.5]
+  [R] Diamond Studded — 55 tokens — Hold a beast with Diamond gemstone
+  [R] Ruby Red — 30 tokens — Hold a beast with Ruby gemstone — grail: 41.4
+  [R] Emerald City — 32 tokens — Hold a beast with Emerald gemstone
+  [E] Sapphire Ice — 25 tokens — Hold a beast with Sapphire gemstone
+  [U] Gem Collector — 142 tokens — Hold a beast with any Gemstone
+  [E] Gold Chain — 15 tokens — Hold a beast with Gold chain — grail: 40.3
+
+  --- 3H: NOTABLE HEADWEAR ---
+  [E] Crown Jewels — 25 tokens — Hold a beast with Crown headwear
+  [R] Spiked Crown — 37 tokens — Hold a beast with Spiked Crown
+  [R] Halo Effect — 46 tokens — Hold a beast with Halo headwear
+  [U] Masked Beast — 117 tokens — Hold a beast with a mask (Gas/Plague Doctor/Hockey/Fume/Sabertooth/Phantom)
+  [L] Spartan — 4 tokens — Hold a beast with Spartan Helmet
+  [R] Flower Power — 30 tokens — Hold a beast with Flower Crown
+  [L] Backwards Trucker — 9 tokens — Hold a beast with Backwards Trucker Hat — grail: 46.4
+
+  --- 3I: DNA ---
+  [U] Zombie — 109 tokens — Hold a Zombie DNA beast
+  [L] Angel Wings — 9 tokens — Hold an Angel DNA beast
+  [R] Bare Bones — 74 tokens — Hold a Bones DNA beast
+
+  --- 3J: RARES (1/1 designs) ---
+  Total rare designs: 73
+    "BANG": 3 tokens [grail: 36.8]
+    Alien: 1 tokens [grail: 59.0]
+    Angel: 5 tokens [grail: 19.0]
+    Anime Ninja: 3 tokens [grail: 59.1]
+    Baby Blue: 5 tokens [grail: 44.9]
+    Banana: 3 tokens [grail: 11.4]
+    Beast Guard: 3 tokens [grail: 16.1]
+    Beast Prime: 3 tokens [grail: 27.1]
+    Boxer: 5 tokens [grail: 18.5]
+    Cheerleader: 5 tokens [grail: 54.5]
+    Clown: 1 tokens [grail: 28.2]
+    Convict: 3 tokens [grail: 23.6]
+    Crash Dummy: 3 tokens [grail: 10.9]
+    Cyclops: 3 tokens [grail: 41.0]
+    Delivery Man: 3 tokens [grail: 21.0]
+    Delivery Woman: 3 tokens [grail: 16.5]
+    Demon: 3 tokens [grail: 12.7]
+    Demon Lord: 2 tokens [grail: 21.8]
+    Detective: 3 tokens [grail: 9.8]
+    Diamond: 2 tokens [grail: 28.9]
+    Dragon: 3 tokens [grail: 31.6]
+    Drip: 6 tokens [grail: 33.7]
+    Elf: 3 tokens [grail: 28.2]
+    Fairy: 1 tokens [grail: 16.5]
+    Farmer: 3 tokens [grail: 28.2]
+    Genie: 1 tokens [grail: N/A]
+    Gloves of Fury: 5 tokens [grail: 41.0]
+    Gnome: 3 tokens [grail: 15.9]
+    Godfather: 3 tokens [grail: 16.7]
+    Gold: 40 tokens [grail: 33.9]
+    Goth: 3 tokens [grail: 18.4]
+    Grim Reaper: 1 tokens [grail: 37.8]
+    Henchman: 3 tokens [grail: 17.7]
+    Hitman: 1 tokens [grail: 28.3]
+    King: 3 tokens [grail: 27.9]
+    Kitsune: 3 tokens [grail: 35.7]
+    Knight: 3 tokens [grail: 40.1]
+    Kumbaya: 4 tokens [grail: 28.2]
+    Lady Angel: 3 tokens [grail: 7.2]
+    Lady Bones: 2 tokens [grail: 26.0]
+    Lady Zombie: 1 tokens [grail: 16.1]
+    Lil' Chill: 3 tokens [grail: 28.2]
+    Lord Angel: 3 tokens [grail: 32.9]
+    Lord Bones: 2 tokens [grail: 15.4]
+    Lord Zombie: 1 tokens [grail: 28.2]
+    Lost Diver: 1 tokens [grail: 21.7]
+    Low Key B: 3 tokens [grail: 16.5]
+    Mechanic: 3 tokens [grail: 36.8]
+    Medusa: 1 tokens [grail: 14.9]
+    Miner: 6 tokens [grail: 29.1]
+    Mummy: 1 tokens [grail: 10.1]
+    Ninja: 15 tokens [grail: 32.0]
+    No Signal: 1 tokens [grail: 16.4]
+    Present: 3 tokens [grail: 15.7]
+    Princess: 3 tokens [grail: 16.8]
+    Quarterback: 3 tokens [grail: 29.8]
+    Samurai: 3 tokens [grail: 31.9]
+    Santa: 3 tokens [grail: 10.3]
+    Screen Saviour: 3 tokens [grail: 56.4]
+    Shaykhah: 5 tokens [grail: 63.8]
+    Sheikh: 3 tokens [grail: 17.6]
+    Spa Day: 3 tokens [grail: 50.3]
+    Spartan: 5 tokens [grail: 33.7]
+    Superstar: 3 tokens [grail: 27.4]
+    Unicorn: 3 tokens [grail: 53.1]
+    Unicorn Star: 3 tokens [grail: 29.2]
+    Up-Town: 3 tokens [grail: 32.2]
+    Vampire: 3 tokens [grail: 40.5]
+    Wanderer: 3 tokens [grail: 28.2]
+    WiFi Hopper: 6 tokens [grail: 39.2]
+    Witch: 3 tokens [grail: 16.0]
+    Wizard: 3 tokens [grail: 40.5]
+    Yeti: 2 tokens [grail: N/A]
+  [U] Rare Breed — 263 tokens — Hold any Rare (1/1 design) — 73 designs, 263 tokens
+  [E] Monster Mash — 19 tokens — Hold a monster Rare (Dragon/Demon/Demon Lord/Vampire/Grim Reaper/Mummy/Witch/Medusa/Yeti)
+  [E] Heavenly — 19 tokens — Hold a heavenly Rare (Angel/Lady Angel/Lord Angel/Fairy/Unicorn/Unicorn Star/Genie)
+  [E] Crime Boss — 10 tokens — Hold a crime Rare (Godfather/Hitman/Henchman/Detective)
+  [E] Legend of the East — 24 tokens — Hold an eastern Rare (Samurai/Ninja/Kitsune/Anime Ninja)
+
+  --- 3K: SKIN TONE ---
+  [R] Vitiligo — 48 tokens — Hold a beast with Vitiligo skin tone
+
+  --- 3L: INK ---
+  [C] Ink'd Up — 866 tokens — Hold a beast with any Ink (Thug/Tough/Wabori)
+  [U] Wabori — 269 tokens — Hold a beast with Wabori ink — grail: 31.5
+
+  --- 3M: EYES ---
+  [U] Toon Eyes — 239 tokens — Hold a beast with Toon Pupils
+  [U] Dazed — 183 tokens — Hold a beast with Dazed Pupils
+  [U] Lizard Eyes — 196 tokens — Hold a beast with Lizard Pupils
+  [R] Starry Eyed — 79 tokens — Hold a beast with Starry Eyeshadow
+
+  --- 3N: BEASTHOOD NEIGHBORHOODS ---
+  Total neighborhoods: 21
+    Beat Street: 500
+    Bullhattan District: 500
+    Champions Court: 500
+    Cloudy Gardens: 500
+    Concrete Jungle: 500
+    Cortado Cafe: 500
+    Faded Heights: 500
+    Fort Flex: 500
+    Gaia Grove: 500
+    L33T Labs: 500
+    MoBA (Museum of Beast Arts): 500
+    Nowhere Parks: 500
+    Ramone Alley: 500
+    Silicon Alley: 500
+    Studio 66: 500
+    The Beastro: 500
+    The Meadows: 500
+    The Odeon: 500
+    Trusty Lake Estates: 500
+    WAGMI Way: 499
+    Wagmi Way: 1
+
+  --- 3O: SCORING-BASED BADGES ---
+  Score percentiles:
+    Top 10% (1000 tokens): score >= 90.0
+    Top 5% (500 tokens): score >= 95.0
+    Top 1% (100 tokens): score >= 99.0
+  [U] Drip Lord — 1000 tokens — Hold a beast in the top 10% composite score
+  [U] Elite Beast — 100 tokens — Hold a beast in the top 1% composite score
+  [C] Built Different — 1084 tokens — Hold a beast with a premium identity combo
+  [C] Grail Hunter — 313 tokens — Hold a beast with a top-tier grail trait (score 50+) — 44 qualifying traits
+
+================================================================================
+  PASS 4: WALLET-LEVEL BADGES (sales data)
+================================================================================
+  Unique buyer wallets: 10748
+  Buy-only wallets (Diamond Hands): 2770
+  Purchase count distribution:
+    1: 5677 wallets
+    10-19: 430 wallets
+    2: 1899 wallets
+    20-49: 184 wallets
+    3-4: 1522 wallets
+    5-9: 979 wallets
+    50+: 57 wallets
+  Milestone badge qualifying wallets:
+    1+ purchases: 10748 wallets
+    5+ purchases: 1650 wallets
+    10+ purchases: 671 wallets
+    20+ purchases: 241 wallets
+    50+ purchases: 57 wallets
+  OG buyers (pre-July 2023): 7892 wallets
+  2x+ flip sales: 2855
+  Sales >= 1 ETH: 6948
+  Sales >= 2 ETH: 1267
+  Sales >= 5 ETH: 105
+  Date range: 2023-01-15 to 2026-01-31
+
+================================================================================
+  PASS 5: CROSS-VERIFICATION
+================================================================================
+
+  Total badges defined: 84
+  Valid (>0 tokens): 81
+  Impossible (0 tokens): 3
+
+  IMPOSSIBLE BADGES (must be fixed or removed):
+    Head Chef — Hold a beast with Chefs Uniform + Chef Hat
+    Gladiator — Hold a beast with Medieval balaclava + Spartan Helmet
+    Gridiron — Hold a beast with Football Helmet + Football Shirt
+
+  TIER AUDIT (checking tier matches supply):
+    ⚠ Drip Lord: assigned uncommon but supply 1000 suggests common
+
+  OVERLAP CHECK (badges with >50% token overlap):
+    Ape Gang (469) ↔ Psychedelic Trip (10): 10 overlap (100% of smaller)
+    Ape Gang (469) ↔ Leopard Print (13): 13 overlap (100% of smaller)
+    Ape Gang (469) ↔ Gold Face (10): 10 overlap (100% of smaller)
+    Ape Gang (469) ↔ Cream Yellow (16): 16 overlap (100% of smaller)
+    Ape Gang (469) ↔ Ape Suit (187): 176 overlap (94% of smaller)
+    Ape Gang (469) ↔ Space Cadet (42): 42 overlap (100% of smaller)
+    Ape Gang (469) ↔ Built Different (1084): 417 overlap (89% of smaller)
+    Robot Gang (432) ↔ Battle Worn (9): 9 overlap (100% of smaller)
+    Robot Gang (432) ↔ Red Metal (10): 10 overlap (100% of smaller)
+    Robot Gang (432) ↔ Distressed (6): 6 overlap (100% of smaller)
+    Robot Gang (432) ↔ Rusty (7): 7 overlap (100% of smaller)
+    Robot Gang (432) ↔ Full Mech (92): 92 overlap (100% of smaller)
+    Robot Gang (432) ↔ Built Different (1084): 383 overlap (89% of smaller)
+    Wolf Gang (313) ↔ Built Different (1084): 262 overlap (84% of smaller)
+    Medieval Gang (40) ↔ Built Different (1084): 22 overlap (55% of smaller)
+    Good Boy (866) ↔ Lab Rat (2): 2 overlap (100% of smaller)
+    Panda Express (403) ↔ Charcoal Ghost (2): 2 overlap (100% of smaller)
+    Brown & Cream (11) ↔ Ape Suit (187): 11 overlap (100% of smaller)
+    Brown & Cream (11) ↔ Snack Attack (718): 6 overlap (55% of smaller)
+    Brown & Cream (11) ↔ Drip Lord (1000): 10 overlap (91% of smaller)
+    Battle Worn (9) ↔ Full Mech (92): 9 overlap (100% of smaller)
+    Battle Worn (9) ↔ Drip Lord (1000): 9 overlap (100% of smaller)
+    Battle Worn (9) ↔ Elite Beast (100): 8 overlap (89% of smaller)
+    Battle Worn (9) ↔ Built Different (1084): 9 overlap (100% of smaller)
+    Battle Worn (9) ↔ Grail Hunter (313): 9 overlap (100% of smaller)
+    Psychedelic Trip (10) ↔ Ape Suit (187): 10 overlap (100% of smaller)
+    Psychedelic Trip (10) ↔ Built Different (1084): 10 overlap (100% of smaller)
+    Leopard Print (13) ↔ Ape Suit (187): 13 overlap (100% of smaller)
+    Leopard Print (13) ↔ Built Different (1084): 13 overlap (100% of smaller)
+    Gold Face (10) ↔ Ape Suit (187): 10 overlap (100% of smaller)
+    Gold Face (10) ↔ Built Different (1084): 10 overlap (100% of smaller)
+    Red Metal (10) ↔ Full Mech (92): 10 overlap (100% of smaller)
+    Red Metal (10) ↔ Built Different (1084): 10 overlap (100% of smaller)
+    Cream Yellow (16) ↔ Ape Suit (187): 16 overlap (100% of smaller)
+    Cream Yellow (16) ↔ Drip Lord (1000): 16 overlap (100% of smaller)
+    Cream Yellow (16) ↔ Built Different (1084): 16 overlap (100% of smaller)
+    Cream Yellow (16) ↔ Grail Hunter (313): 16 overlap (100% of smaller)
+    Distressed (6) ↔ Full Mech (92): 6 overlap (100% of smaller)
+    Distressed (6) ↔ Built Different (1084): 6 overlap (100% of smaller)
+    Rusty (7) ↔ Full Mech (92): 7 overlap (100% of smaller)
+    Rusty (7) ↔ Built Different (1084): 7 overlap (100% of smaller)
+    Blackout (22) ↔ All Black Everything (204): 22 overlap (100% of smaller)
+    Blackout (22) ↔ Color Coordinated (226): 22 overlap (100% of smaller)
+    All Black Everything (204) ↔ Color Coordinated (226): 204 overlap (100% of smaller)
+    White Out (2) ↔ Color Coordinated (226): 2 overlap (100% of smaller)
+    Ape Suit (187) ↔ Built Different (1084): 176 overlap (94% of smaller)
+    Full Mech (92) ↔ Built Different (1084): 92 overlap (100% of smaller)
+    Space Cadet (42) ↔ Built Different (1084): 42 overlap (100% of smaller)
+    Suited Up (252) ↔ Suited & Booted (19): 19 overlap (100% of smaller)
+    Suited Up (252) ↔ Gold Chain (15): 15 overlap (100% of smaller)
+    Boombox Beast (122) ↔ Band Practice (281): 122 overlap (100% of smaller)
+    Diamond Studded (55) ↔ Gem Collector (142): 55 overlap (100% of smaller)
+    Ruby Red (30) ↔ Gem Collector (142): 30 overlap (100% of smaller)
+    Ruby Red (30) ↔ Drip Lord (1000): 17 overlap (57% of smaller)
+    Emerald City (32) ↔ Gem Collector (142): 32 overlap (100% of smaller)
+    Sapphire Ice (25) ↔ Gem Collector (142): 25 overlap (100% of smaller)
+    Backwards Trucker (9) ↔ Drip Lord (1000): 7 overlap (78% of smaller)
+    Angel Wings (9) ↔ Rare Breed (263): 9 overlap (100% of smaller)
+    Angel Wings (9) ↔ Heavenly (19): 9 overlap (100% of smaller)
+    Rare Breed (263) ↔ Monster Mash (19): 19 overlap (100% of smaller)
+    Rare Breed (263) ↔ Heavenly (19): 19 overlap (100% of smaller)
+    Rare Breed (263) ↔ Crime Boss (10): 10 overlap (100% of smaller)
+    Rare Breed (263) ↔ Legend of the East (24): 24 overlap (100% of smaller)
+    Ink'd Up (866) ↔ Wabori (269): 269 overlap (100% of smaller)
+    Drip Lord (1000) ↔ Elite Beast (100): 100 overlap (100% of smaller)
+    Drip Lord (1000) ↔ Grail Hunter (313): 170 overlap (54% of smaller)
+    Elite Beast (100) ↔ Built Different (1084): 73 overlap (73% of smaller)
+
+================================================================================
+  FINAL RECOMMENDED BADGE SET
+================================================================================
+
+  ### Balaclava Identity
+  Badge                     Tier         Tokens     Criteria
+  ------------------------- ------------ ---------- ----------------------------------------
+  Good Boy                  Common       866        Hold a beast with dog balaclava (Beagle/Cocker Spaniel/Pooch)
+  Ape Gang                  Common       469        Hold a beast with Ape balaclava
+  Robot Gang                Common       432        Hold a beast with Robot balaclava
+  Bull Run                  Common       414        Hold a beast with Bull balaclava
+  Panda Express             Common       403        Hold a beast with Panda balaclava
+  Cat Burglar               Common       390        Hold a beast with Cat balaclava
+  Class Clown               Common       382        Hold a beast with Clown balaclava
+  Skull Squad               Common       333        Hold a beast with Skull balaclava
+  Wolf Gang                 Common       313        Hold a beast with Wolf balaclava
+  Medieval Gang             Rare         40         Hold a beast with Medieval balaclava
+  Brown & Cream             Epic         11         Hold a beast with Brown & Cream balaclava
+  Custom Panda              Legendary    7          Hold a Custom Female Hippies Tan Panda Balaclava beast
+
+  ### Balaclava Style
+  Badge                     Tier         Tokens     Criteria
+  ------------------------- ------------ ---------- ----------------------------------------
+  Cream Yellow              Epic         16         Hold a beast with Cream Yellow balaclava style
+  Leopard Print             Epic         13         Hold a beast with Leopard balaclava style
+  Psychedelic Trip          Epic         10         Hold a beast with Psychedelic balaclava style
+  Gold Face                 Epic         10         Hold a beast with Gold balaclava style
+  Red Metal                 Epic         10         Hold a beast with Red Metal balaclava style
+  Battle Worn               Legendary    9          Hold a beast with Battle Worn White balaclava style
+  Skull Print               Legendary    9          Hold a beast with Skull Print balaclava style
+  Rusty                     Legendary    7          Hold a beast with Rusty Teal balaclava style
+  Distressed                Legendary    6          Hold a beast with Distressed Black & White balaclava style
+  Charcoal Ghost            Legendary    2          Hold a beast with Charcoal & Gray balaclava style
+
+  ### Color Coordination
+  Badge                     Tier         Tokens     Criteria
+  ------------------------- ------------ ---------- ----------------------------------------
+  Color Coordinated         Uncommon     226        Hold a beast with 4+ traits sharing any color
+  All Black Everything      Uncommon     204        Hold a beast with 4+ black-colored traits
+  Blackout                  Epic         22         Hold a beast with 5+ black-colored traits
+  Pink Gang                 Epic         20         Hold a beast with 3+ pink-colored traits
+  White Out                 Legendary    2          Hold a beast with 4+ white-colored traits
+
+  ### Full Suits
+  Badge                     Tier         Tokens     Criteria
+  ------------------------- ------------ ---------- ----------------------------------------
+  Suited Up                 Uncommon     252        Hold a beast with Suit Jacket + Suit Pants
+  Trackstar                 Uncommon     199        Hold a beast wearing a Tracksuit
+  Ape Suit                  Uncommon     187        Hold a beast wearing an Ape Suit
+  Full Mech                 Rare         92         Hold a beast with Robot Suit top + bottom
+  Space Cadet               Rare         42         Hold a beast with Astronaut top + bottom
+  Suited & Booted           Epic         19         Hold a beast with Suit Jacket + Suit Pants + Formal Shoe
+
+  ### Fashion Combos
+  Badge                     Tier         Tokens     Criteria
+  ------------------------- ------------ ---------- ----------------------------------------
+  Road Beast                Uncommon     110        Hold a beast with Biker Jacket + Boots
+  Prep School               Rare         95         Hold a beast with Blazer/Sweater Vest + Formal Shoe
+  Skater                    Epic         24         Hold a beast with Skateboard + sneaker footwear
+  Surf's Up                 Epic         18         Hold a beast with Surfboard
+  Cowboy                    Legendary    4          Hold a beast with Cowboy Hat + Cowboy Boots
+  Lab Rat                   Legendary    2          Hold a beast with Lab Coat + Pixel/3D Glasses
+
+  ### Accessories
+  Badge                     Tier         Tokens     Criteria
+  ------------------------- ------------ ---------- ----------------------------------------
+  Snack Attack              Common       718        Hold a beast with food/drink item
+  Armed & Dangerous         Common       391        Hold a beast with weapon accessory (Bat/Nanchaku/Crowbar/Bomb/Axe/Bat Wood)
+  Band Practice             Uncommon     281        Hold a beast with guitar, microphone, or boombox
+  Bookworm                  Uncommon     218        Hold a beast with Book, Laptop, or Calculator
+  Shutterbug                Uncommon     167        Hold a beast with Camera or Polaroid
+  Money Moves               Uncommon     146        Hold a beast with Money Stacks, Gold Bars, or Money Bag
+  Sports Beast              Uncommon     123        Hold a beast with sports equipment
+  Boombox Beast             Uncommon     122        Hold a beast with Boombox
+  Crypto Native             Rare         90         Hold a beast with Bitcoin or Ethereum accessory
+  Vandal                    Rare         45         Hold a beast with Spray Can
+
+  ### Gemstones & Chains
+  Badge                     Tier         Tokens     Criteria
+  ------------------------- ------------ ---------- ----------------------------------------
+  Gem Collector             Uncommon     142        Hold a beast with any Gemstone
+  Diamond Studded           Rare         55         Hold a beast with Diamond gemstone
+  Emerald City              Rare         32         Hold a beast with Emerald gemstone
+  Ruby Red                  Rare         30         Hold a beast with Ruby gemstone
+  Sapphire Ice              Epic         25         Hold a beast with Sapphire gemstone
+  Gold Chain                Epic         15         Hold a beast with Gold chain
+
+  ### Notable Headwear
+  Badge                     Tier         Tokens     Criteria
+  ------------------------- ------------ ---------- ----------------------------------------
+  Masked Beast              Uncommon     117        Hold a beast with a mask (Gas/Plague Doctor/Hockey/Fume/Sabertooth/Phantom)
+  Halo Effect               Rare         46         Hold a beast with Halo headwear
+  Spiked Crown              Rare         37         Hold a beast with Spiked Crown
+  Flower Power              Rare         30         Hold a beast with Flower Crown
+  Crown Jewels              Epic         25         Hold a beast with Crown headwear
+  Backwards Trucker         Legendary    9          Hold a beast with Backwards Trucker Hat
+  Spartan                   Legendary    4          Hold a beast with Spartan Helmet
+
+  ### DNA
+  Badge                     Tier         Tokens     Criteria
+  ------------------------- ------------ ---------- ----------------------------------------
+  Zombie                    Uncommon     109        Hold a Zombie DNA beast
+  Bare Bones                Rare         74         Hold a Bones DNA beast
+  Angel Wings               Legendary    9          Hold an Angel DNA beast
+
+  ### Rares (1/1 Designs)
+  Badge                     Tier         Tokens     Criteria
+  ------------------------- ------------ ---------- ----------------------------------------
+  Rare Breed                Uncommon     263        Hold any Rare (1/1 design)
+  Legend of the East        Epic         24         Hold an eastern Rare (Samurai/Ninja/Kitsune/Anime Ninja)
+  Monster Mash              Epic         19         Hold a monster Rare (Dragon/Demon/Demon Lord/Vampire/Grim Reaper/Mummy/Witch/Medusa/Yeti)
+  Heavenly                  Epic         19         Hold a heavenly Rare (Angel/Lady Angel/Lord Angel/Fairy/Unicorn/Unicorn Star/Genie)
+  Crime Boss                Epic         10         Hold a crime Rare (Godfather/Hitman/Henchman/Detective)
+
+  ### Skin Tone
+  Badge                     Tier         Tokens     Criteria
+  ------------------------- ------------ ---------- ----------------------------------------
+  Vitiligo                  Rare         48         Hold a beast with Vitiligo skin tone
+
+  ### Ink
+  Badge                     Tier         Tokens     Criteria
+  ------------------------- ------------ ---------- ----------------------------------------
+  Ink'd Up                  Common       866        Hold a beast with any Ink (Thug/Tough/Wabori)
+  Wabori                    Uncommon     269        Hold a beast with Wabori ink
+
+  ### Eyes
+  Badge                     Tier         Tokens     Criteria
+  ------------------------- ------------ ---------- ----------------------------------------
+  Toon Eyes                 Uncommon     239        Hold a beast with Toon Pupils
+  Lizard Eyes               Uncommon     196        Hold a beast with Lizard Pupils
+  Dazed                     Uncommon     183        Hold a beast with Dazed Pupils
+  Starry Eyed               Rare         79         Hold a beast with Starry Eyeshadow
+
+  ### Scoring Engine
+  Badge                     Tier         Tokens     Criteria
+  ------------------------- ------------ ---------- ----------------------------------------
+  Built Different           Common       1084       Hold a beast with a premium identity combo
+  Drip Lord                 Uncommon     1000       Hold a beast in the top 10% composite score
+  Grail Hunter              Common       313        Hold a beast with a top-tier grail trait (score 50+)
+  Elite Beast               Uncommon     100        Hold a beast in the top 1% composite score
+
+  TOTAL VERIFIED BADGES: 81
+
+  Tier distribution:
+    Common: 14
+    Epic: 18
+    Legendary: 12
+    Rare: 15
+    Uncommon: 22
