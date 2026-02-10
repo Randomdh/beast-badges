@@ -6,7 +6,7 @@
 
 ## The Idea
 
-You open Discord. Type `/badges`. Your collection lights up:
+You log into the AKCB Portal. Next to your profile and B*Points, there's a new section — your badge wall:
 
 > **Ape Gang** — you hold an Ape balaclava.
 > **Blackout** — you found a beast with 5 black traits.
@@ -17,9 +17,11 @@ You open Discord. Type `/badges`. Your collection lights up:
 
 Your XP total: 1,240. **Gold Tier.** Only 12 holders have more.
 
-Another holder sees your badges and thinks: "They have Face Collector? That means they hold all four premium balaclavas. I only need Wolf to get there."
+You jump into Beastside. Your Gold Tier badge is visible in the lobby. Mid-match, you win with your Cowboy beast — "Cowboy Showdown" badge unlocks in real time.
 
-That's Beast Badges. A permanent, on-chain achievement system that recognizes what this community already does — collecting specific traits, assembling clean fits, stacking beasts, holding through bear markets, and soon, playing the game.
+Later in Discord, someone types `/badges` and sees your collection. They think: "They have Face Collector? That means they hold all four premium balaclavas. I only need Wolf to get there."
+
+That's Beast Badges. A permanent, on-chain achievement system that lives on your portal profile, connects to the game, and shows up in Discord. It recognizes what this community already does — collecting specific traits, assembling clean fits, stacking beasts, holding through bear markets, and playing the game.
 
 ---
 
@@ -94,7 +96,7 @@ Start with 25 that can ship on day one. No game integration needed, no admin att
 | **Grail Hunter** | Epic | Hold a beast with a top-tier grail trait |
 | **Floor Sweeper** | Uncommon | Bought 5+ beasts at floor price |
 
-Most active holders would earn 5-10 badges immediately on day one. The experience is: connect wallet, see what you've already earned, start hunting what's next.
+Most active holders would earn 5-10 badges immediately on day one. The experience is: log into the portal, see what you've already earned, start hunting what's next.
 
 ---
 
@@ -402,16 +404,16 @@ The technical stack is straightforward — standard ERC-721, basic API server, A
 ### Phases
 
 **Phase 1 — Launch set** (25 badges, no game integration needed)
-Deploy contract to Base. Eligibility engine reads Genesis/BitBeast/Physical Edition holdings. Discord `/badges` command shows earned badges. Community goes live.
+Deploy contract to Base. Eligibility engine reads Genesis/BitBeast/Physical Edition holdings. Badge wall goes live on the portal. Community goes live.
 
-**Phase 2 — Full library**
-Add market behavior badges, community badges with admin attestation, cross-collection depth. B*Points integration if the team wants it.
+**Phase 2 — Full library + Beastside**
+Add market behavior badges, community badges with admin attestation, cross-collection depth. B*Points integration. Beastside sends achievement events — game badges create the collecting-to-gaming loop.
 
-**Phase 3 — Beastside integration**
-Game sends achievement events. Badge engine mints game badges. Trait-based game badges create the collecting-to-gaming loop. Seasonal badges begin.
+**Phase 3 — Discord + automation**
+`/badges` command in Discord for quick lookups. Webhook announcements for new badge unlocks. Weekly sweep auto-mints newly earned badges.
 
 **Phase 4 — Ecosystem expansion**
-Bisuto integration when it launches. Community badge proposals. XP tier perks. TGE snapshot readiness.
+Bisuto integration when it launches. Community badge proposals. Seasonal badges. XP tier perks. TGE snapshot readiness.
 
 ---
 
@@ -453,7 +455,7 @@ Being honest about what this system can and can't do:
 2. **Badge definitions**: Do these feel right for the community? What's missing, what's off?
 3. **Artwork**: Community contest, commissioned, team-designed, or start with AI?
 4. **B*Points integration**: Connect from day one, or launch independently and add hooks later?
-5. **Portal display**: Would badges show on portal profiles, or live only in Discord + on-chain?
+5. **Portal integration**: What's the best way to add a badge wall to existing portal profiles?
 6. **Beastside timeline**: When could the game send achievement events?
 7. **Admin attestation**: Who verifies community/IRL badges — core team only, or trusted mods?
 8. **Badge governance**: Can the community propose new badges, or team-controlled?
