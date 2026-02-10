@@ -7,3 +7,5 @@ typechain-types/
 data/*.json
 coverage/
 coverage.json
+CRITIQUE.md
+PROPOSAL.md
