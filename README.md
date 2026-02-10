@@ -158,7 +158,7 @@ Specific items that tell stories.
 
 | Badge | Tier | Criteria | Supply |
 |---|---|---|---|
-| Armed & Dangerous | Uncommon | Beast with weapon (Bat, Bat Wood, Crowbar, Bomb) | 309 combined |
+| Armed & Dangerous | Uncommon | Beast with weapon (Bat, Nanchaku, Crowbar, Bomb, Axe, Bat Wood) | 391 combined |
 | Vandal | Uncommon | Beast with Spray Can | 45 tokens |
 | Boombox Beast | Uncommon | Beast with Boombox | 122 tokens |
 | Crypto Native | Uncommon | Beast with Bitcoin or Ethereum accessory | 90 combined |
