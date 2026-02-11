@@ -59,7 +59,7 @@ Badges span everything:
 
 ## Data Validation
 
-Every badge below has been validated against the complete dataset: all 10,000 Genesis Beast tokens with full trait data, 38,153 historic sales records spanning January 2023 to January 2026, 1,793 unique trait variants, and 10,748 unique buyer wallets. No badge listed here is impossible to earn. Supply numbers are exact counts from the data, not estimates.
+Every badge below has been validated against the complete dataset: all 10,000 Genesis Beast tokens with full trait data, 38,153 historic sales records spanning January 2023 to January 2026, 1,793 unique trait variants, and 10,748 unique buyer wallets. No badge listed here is impossible to earn. Token supply numbers are exact counts from the data, not estimates. Wallet-level qualifying counts are from an on-chain snapshot taken on 2026-02-11 (3,057 current holders across all 10,000 tokens via Alchemy).
 
 ---
 
@@ -67,60 +67,28 @@ Every badge below has been validated against the complete dataset: all 10,000 Ge
 
 Start with 20 that can ship on day one. No game integration needed, no admin attestation — just on-chain wallet data.
 
-### Identity
-
-| Badge | Tier | What You Did | Qualifying Tokens |
-|---|---|---|---|
-| **Ape Gang** | Common | Hold a beast with Ape balaclava | 469 |
-| **Good Boy** | Common | Hold a beast with dog balaclava (Beagle/Cocker Spaniel/Pooch) | 866 |
-| **Wolf Pack** | Uncommon | Hold a beast with Wolf balaclava | 313 |
-| **Knight's Watch** | Epic | Hold a beast with Medieval balaclava | 40 |
-
-### Style & Color
-
-| Badge | Tier | What You Did | Qualifying Tokens |
-|---|---|---|---|
-| **Color Coordinated** | Uncommon | Hold a beast with 4+ traits sharing the same color | 226 |
-| **All Black Everything** | Uncommon | Hold a beast with 4+ black traits | 204 |
-| **Blackout** | Epic | Hold a beast with 5+ black traits | 22 |
-
-### Suits & Outfits
-
-| Badge | Tier | What You Did | Qualifying Tokens |
-|---|---|---|---|
-| **Ape Suit** | Uncommon | Hold a beast wearing an Ape Suit | 187 |
-| **Full Mech** | Rare | Hold a beast with Robot Suit top + bottom | 92 |
-| **Space Cadet** | Rare | Hold a beast with Astronaut top + bottom | 42 |
-
-### DNA & Rares
-
-| Badge | Tier | What You Did | Qualifying Tokens |
-|---|---|---|---|
-| **Zombie** | Uncommon | Hold a Zombie DNA beast | 109 |
-| **Angel Wings** | Legendary | Hold an Angel DNA beast | 9 |
-| **Rare Breed** | Uncommon | Hold any Rare (1/1 design) | 263 across 73 designs |
-
-### Accessories
-
-| Badge | Tier | What You Did | Qualifying Tokens |
-|---|---|---|---|
-| **Armed & Dangerous** | Common | Hold a beast with a weapon (Bat/Crowbar/Bomb/Axe/Nanchaku/Bat Wood) | 391 |
-| **Crypto Native** | Rare | Hold a beast with Bitcoin or Ethereum accessory | 90 |
-
-### Milestones & Conviction
-
 | Badge | Tier | What You Did | Qualifying Supply |
 |---|---|---|---|
-| **First Beast** | Common | Hold your first Genesis Beast | Every holder |
-| **Pack Leader** | Uncommon | Hold 10 Genesis Beasts | ~671 wallets |
-| **Diamond Hands** | Rare | Held 6+ months, zero sales | 2,770 buy-only wallets |
-
-### Specials
-
-| Badge | Tier | What You Did | Qualifying Tokens |
-|---|---|---|---|
-| **Vitiligo** | Rare | Hold a beast with Vitiligo skin tone | 48 |
-| **Grail Hunter** | Rare | Hold a beast with a high-demand rare trait (supply ≤15, premium market value) | ~313 |
+| **Good Boy** | Common | Hold a beast with dog balaclava (Beagle/Cocker Spaniel/Pooch) | 866 tokens |
+| **Ape Gang** | Common | Hold a beast with Ape balaclava | 469 tokens |
+| **Armed & Dangerous** | Common | Hold a beast with a weapon (Bat/Crowbar/Bomb/Axe/Nanchaku/Bat Wood) | 391 tokens |
+| **First Beast** | Common | Hold your first Genesis Beast | 3,057 wallets |
+| **Wolf Pack** | Uncommon | Hold a beast with Wolf balaclava | 313 tokens |
+| **Color Coordinated** | Uncommon | Hold a beast with 4+ traits sharing the same color | 226 tokens |
+| **All Black Everything** | Uncommon | Hold a beast with 4+ black traits | 204 tokens |
+| **Ape Suit** | Uncommon | Hold a beast wearing an Ape Suit | 187 tokens |
+| **Zombie** | Uncommon | Hold a Zombie DNA beast | 109 tokens |
+| **Rare Breed** | Uncommon | Hold any Rare (1/1 design) | 263 tokens across 73 designs |
+| **Pack Leader** | Uncommon | Hold 10 Genesis Beasts | 138 wallets |
+| **Full Mech** | Rare | Hold a beast with Robot Suit top + bottom | 92 tokens |
+| **Crypto Native** | Rare | Hold a beast with Bitcoin or Ethereum accessory | 90 tokens |
+| **Vitiligo** | Rare | Hold a beast with Vitiligo skin tone | 48 tokens |
+| **Space Cadet** | Rare | Hold a beast with Astronaut top + bottom | 42 tokens |
+| **Grail Hunter** | Rare | Hold a beast with a high-demand rare trait (supply ≤15, premium market value) | ~313 tokens |
+| **Diamond Hands** | Rare | Bought on secondary, never sold, still holding | 1,122 wallets |
+| **Knight's Watch** | Epic | Hold a beast with Medieval balaclava | 40 tokens |
+| **Blackout** | Epic | Hold a beast with 5+ black traits | 22 tokens |
+| **Angel Wings** | Legendary | Hold an Angel DNA beast | 9 tokens |
 
 Most active holders would earn 5-10 badges immediately on day one. The experience is: log into the portal, see what you've already earned, start hunting what's next.
 
@@ -134,52 +102,52 @@ The launch set grows into a full library over time. Every badge below has been v
 
 The face IS the beast. 24 distinct balaclava types exist across the 10,000-token collection.
 
-| Badge | Tier | Criteria | Tokens |
+| Badge | Tier | Criteria | Supply |
 |---|---|---|---|
-| Good Boy | Common | Hold a beast with dog balaclava (Beagle/Cocker Spaniel/Pooch) | 866 |
-| Ape Gang | Common | Hold a beast with Ape balaclava | 469 |
-| Mech Head | Common | Hold a beast with Robot balaclava | 432 |
-| Bull Run | Common | Hold a beast with Bull balaclava | 414 |
-| Panda Express | Common | Hold a beast with Panda balaclava | 403 |
-| Cat Burglar | Common | Hold a beast with Cat balaclava | 390 |
-| Class Clown | Common | Hold a beast with Clown balaclava | 382 |
-| Skull Squad | Uncommon | Hold a beast with Skull balaclava | 333 |
-| Wolf Pack | Uncommon | Hold a beast with Wolf balaclava | 313 |
-| Knight's Watch | Epic | Hold a beast with Medieval balaclava | 40 |
-| Brown & Cream | Epic | Hold a beast with Brown & Cream balaclava | 11 |
-| Custom Panda | Legendary | Hold a Custom Female Hippies Tan Panda beast | 7 |
-| Zoo Keeper | Rare | Hold 5+ different balaclava types across your wallet | Wallet-level |
-| Face Off | Epic | Hold 10+ different balaclava types across your wallet | Wallet-level |
-| Face Collector | Legendary | Hold all 4 premium balaclavas (Ape/Robot/Wolf/Medieval) | Wallet-level |
+| Good Boy | Common | Hold a beast with dog balaclava (Beagle/Cocker Spaniel/Pooch) | 866 tokens |
+| Ape Gang | Common | Hold a beast with Ape balaclava | 469 tokens |
+| Mech Head | Common | Hold a beast with Robot balaclava | 432 tokens |
+| Bull Run | Common | Hold a beast with Bull balaclava | 414 tokens |
+| Panda Express | Common | Hold a beast with Panda balaclava | 403 tokens |
+| Cat Burglar | Common | Hold a beast with Cat balaclava | 390 tokens |
+| Class Clown | Common | Hold a beast with Clown balaclava | 382 tokens |
+| Skull Squad | Uncommon | Hold a beast with Skull balaclava | 333 tokens |
+| Wolf Pack | Uncommon | Hold a beast with Wolf balaclava | 313 tokens |
+| Zoo Keeper | Rare | Hold 5+ different balaclava types across your wallet | 63 wallets |
+| Knight's Watch | Epic | Hold a beast with Medieval balaclava | 40 tokens |
+| Brown & Cream | Epic | Hold a beast with Brown & Cream balaclava | 11 tokens |
+| Face Off | Epic | Hold 10+ different balaclava types across your wallet | 11 wallets |
+| Custom Panda | Legendary | Hold a Custom Female Hippies Tan Panda beast | 7 tokens |
+| Face Collector | Legendary | Hold all 4 premium balaclavas (Ape/Robot/Wolf/Medieval) | 1 wallet |
 
 ### 2. Rare Styles
 
 39 balaclava styles exist — most are common colorways, but a handful are extremely rare. These are the collector's badges.
 
-| Badge | Tier | Criteria | Tokens |
+| Badge | Tier | Criteria | Supply |
 |---|---|---|---|
-| Cream Yellow | Epic | Hold a beast with Cream Yellow balaclava style | 16 |
-| Leopard Print | Epic | Hold a beast with Leopard balaclava style | 13 |
-| Psychedelic Trip | Epic | Hold a beast with Psychedelic balaclava style | 10 |
-| Gold Face | Epic | Hold a beast with Gold balaclava style | 10 |
-| Red Metal | Epic | Hold a beast with Red Metal balaclava style | 10 |
-| Battle Worn | Legendary | Hold a beast with Battle Worn White balaclava style | 9 |
-| Skull Print | Legendary | Hold a beast with Skull Print balaclava style | 9 |
-| Rusty | Legendary | Hold a beast with Rusty Teal balaclava style | 7 |
-| Distressed | Legendary | Hold a beast with Distressed Black & White balaclava style | 6 |
-| Charcoal Ghost | Legendary | Hold a beast with Charcoal & Gray balaclava style | 2 |
+| Cream Yellow | Epic | Hold a beast with Cream Yellow balaclava style | 16 tokens |
+| Leopard Print | Epic | Hold a beast with Leopard balaclava style | 13 tokens |
+| Psychedelic Trip | Epic | Hold a beast with Psychedelic balaclava style | 10 tokens |
+| Gold Face | Epic | Hold a beast with Gold balaclava style | 10 tokens |
+| Red Metal | Epic | Hold a beast with Red Metal balaclava style | 10 tokens |
+| Battle Worn | Legendary | Hold a beast with Battle Worn White balaclava style | 9 tokens |
+| Skull Print | Legendary | Hold a beast with Skull Print balaclava style | 9 tokens |
+| Rusty | Legendary | Hold a beast with Rusty Teal balaclava style | 7 tokens |
+| Distressed | Legendary | Hold a beast with Distressed Black & White balaclava style | 6 tokens |
+| Charcoal Ghost | Legendary | Hold a beast with Charcoal & Gray balaclava style | 2 tokens |
 
 ### 3. Color Coordination
 
 "Clean fit" is the highest compliment a beast gets. These badges reward color-matched builds.
 
-| Badge | Tier | Criteria | Tokens |
+| Badge | Tier | Criteria | Supply |
 |---|---|---|---|
-| Color Coordinated | Uncommon | Hold a beast with 4+ traits sharing the same color | 226 |
-| All Black Everything | Uncommon | Hold a beast with 4+ black traits | 204 |
-| Blackout | Epic | Hold a beast with 5+ black traits | 22 |
-| Pink Gang | Epic | Hold a beast with 3+ pink traits | 20 |
-| White Out | Legendary | Hold a beast with 4+ white traits | 2 |
+| Color Coordinated | Uncommon | Hold a beast with 4+ traits sharing the same color | 226 tokens |
+| All Black Everything | Uncommon | Hold a beast with 4+ black traits | 204 tokens |
+| Blackout | Epic | Hold a beast with 5+ black traits | 22 tokens |
+| Pink Gang | Epic | Hold a beast with 3+ pink traits | 20 tokens |
+| White Out | Legendary | Hold a beast with 4+ white traits | 2 tokens |
 
 ### 4. Suits & Outfits
 
@@ -195,144 +163,146 @@ The collection has four distinct suit systems. Each works differently in the tra
 
 **Formal Suit** — Suit Jacket (category top) + Suit Pants (category bottom). All 252 Suit Jacket tokens also have Suit Pants. Adding Formal Shoe narrows it to 19.
 
-| Badge | Tier | Criteria | Tokens |
+| Badge | Tier | Criteria | Supply |
 |---|---|---|---|
-| Suited Up | Uncommon | Hold a beast with Suit Jacket + Suit Pants | 252 |
-| Trackstar | Uncommon | Hold a beast wearing a Tracksuit | 199 |
-| Ape Suit | Uncommon | Hold a beast wearing an Ape Suit | 187 |
-| Full Mech | Rare | Hold a beast with Robot Suit top + bottom | 92 |
-| Space Cadet | Rare | Hold a beast with Astronaut top + bottom | 42 |
-| Suited & Booted | Epic | Hold a beast with Suit Jacket + Suit Pants + Formal Shoe | 19 |
+| Suited Up | Uncommon | Hold a beast with Suit Jacket + Suit Pants | 252 tokens |
+| Trackstar | Uncommon | Hold a beast wearing a Tracksuit | 199 tokens |
+| Ape Suit | Uncommon | Hold a beast wearing an Ape Suit | 187 tokens |
+| Full Mech | Rare | Hold a beast with Robot Suit top + bottom | 92 tokens |
+| Space Cadet | Rare | Hold a beast with Astronaut top + bottom | 42 tokens |
+| Suited & Booted | Epic | Hold a beast with Suit Jacket + Suit Pants + Formal Shoe | 19 tokens |
 
 ### 5. Fashion Combos
 
 Specific outfit combinations that tell a story. Every combo below has been verified — tokens with both traits exist.
 
-| Badge | Tier | Criteria | Tokens |
+| Badge | Tier | Criteria | Supply |
 |---|---|---|---|
-| Road Beast | Uncommon | Hold a beast with Biker Jacket + Boots | 110 |
-| Prep School | Rare | Hold a beast with Blazer or Sweater Vest + Formal Shoe | 95 |
-| Skater | Epic | Hold a beast with Skateboard + sneaker footwear | 24 |
-| Surf's Up | Epic | Hold a beast with Surfboard | 18 |
-| Cowboy | Legendary | Hold a beast with Cowboy Hat + Cowboy Boots | 4 |
-| Lab Rat | Legendary | Hold a beast with Lab Coat + 3D Glasses | 2 |
+| Road Beast | Uncommon | Hold a beast with Biker Jacket + Boots | 110 tokens |
+| Prep School | Rare | Hold a beast with Blazer or Sweater Vest + Formal Shoe | 95 tokens |
+| Skater | Epic | Hold a beast with Skateboard + sneaker footwear | 24 tokens |
+| Surf's Up | Epic | Hold a beast with Surfboard | 18 tokens |
+| Cowboy | Legendary | Hold a beast with Cowboy Hat + Cowboy Boots | 4 tokens |
+| Lab Rat | Legendary | Hold a beast with Lab Coat + 3D Glasses | 2 tokens |
 
 ### 6. Accessories & Gear
 
 82 distinct accessories exist in the collection. These badges reward holding specific items or themed collections.
 
-| Badge | Tier | Criteria | Tokens |
+| Badge | Tier | Criteria | Supply |
 |---|---|---|---|
-| Armed & Dangerous | Common | Hold a beast with weapon (Bat/Crowbar/Bomb/Axe/Nanchaku/Bat Wood) | 391 |
-| Band Practice | Uncommon | Hold a beast with guitar, microphone, or boombox | 281 |
-| Bookworm | Uncommon | Hold a beast with Book, Laptop, or Calculator | 218 |
-| Shutterbug | Uncommon | Hold a beast with Camera or Polaroid | 167 |
-| Money Moves | Uncommon | Hold a beast with Money Stacks, Gold Bars, or Money Bag | 146 |
-| Sports Beast | Uncommon | Hold a beast with sports equipment | 123 |
-| Crypto Native | Rare | Hold a beast with Bitcoin or Ethereum accessory | 90 |
-| Vandal | Rare | Hold a beast with Spray Can | 45 |
-| Snack Attack | Uncommon | Hold beasts with 3+ different food/drink items across your wallet | Wallet-level (718 food tokens total: Apple 133, Donut 84, Cereal 84, Boba Tea 77, Soda 62, Burger 43, Ice Cream 23, Spatula 12, Spatula & Fries 9) |
-| Sneakerhead | Uncommon | Hold beasts with 5+ different footwear types across your wallet | Wallet-level (16 footwear types exist) |
+| Armed & Dangerous | Common | Hold a beast with weapon (Bat/Crowbar/Bomb/Axe/Nanchaku/Bat Wood) | 391 tokens |
+| Band Practice | Uncommon | Hold a beast with guitar, microphone, or boombox | 281 tokens |
+| Bookworm | Uncommon | Hold a beast with Book, Laptop, or Calculator | 218 tokens |
+| Shutterbug | Uncommon | Hold a beast with Camera or Polaroid | 167 tokens |
+| Money Moves | Uncommon | Hold a beast with Money Stacks, Gold Bars, or Money Bag | 146 tokens |
+| Sports Beast | Uncommon | Hold a beast with sports equipment | 123 tokens |
+| Sneakerhead | Uncommon | Hold beasts with 5+ different footwear types across your wallet | 20 wallets |
+| Snack Attack | Uncommon | Hold beasts with 3+ different food/drink items across your wallet | 4 wallets |
+| Crypto Native | Rare | Hold a beast with Bitcoin or Ethereum accessory | 90 tokens |
+| Vandal | Rare | Hold a beast with Spray Can | 45 tokens |
 
 ### 7. Gemstones, Chains & Crowns
 
 The bling. Four gemstone types, two chain types, and three crown variants exist.
 
-| Badge | Tier | Criteria | Tokens |
+| Badge | Tier | Criteria | Supply |
 |---|---|---|---|
-| Gem Collector | Uncommon | Hold a beast with any Gemstone | 142 |
-| Masked Beast | Uncommon | Hold a beast with a mask (Gas/Plague Doctor/Hockey/Fume/Sabertooth/Phantom) | 117 |
-| Halo Effect | Rare | Hold a beast with Halo headwear | 46 |
-| Spiked Crown | Rare | Hold a beast with Spiked Crown | 37 |
-| Diamond Studded | Rare | Hold a beast with Diamond gemstone | 55 |
-| Emerald City | Rare | Hold a beast with Emerald gemstone | 32 |
-| Ruby Red | Rare | Hold a beast with Ruby gemstone | 30 |
-| Flower Power | Rare | Hold a beast with Flower Crown | 30 |
-| Crown Jewels | Epic | Hold a beast with Crown headwear | 25 |
-| Sapphire Ice | Epic | Hold a beast with Sapphire gemstone | 25 |
-| Gold Chain | Epic | Hold a beast with Gold chain | 15 |
-| Spartan | Legendary | Hold a beast with Spartan Helmet | 4 |
-| Backwards Trucker | Legendary | Hold a beast with Backwards Trucker Hat | 9 |
+| Gem Collector | Uncommon | Hold a beast with any Gemstone | 142 tokens |
+| Masked Beast | Uncommon | Hold a beast with a mask (Gas/Plague Doctor/Hockey/Fume/Sabertooth/Phantom) | 117 tokens |
+| Diamond Studded | Rare | Hold a beast with Diamond gemstone | 55 tokens |
+| Halo Effect | Rare | Hold a beast with Halo headwear | 46 tokens |
+| Spiked Crown | Rare | Hold a beast with Spiked Crown | 37 tokens |
+| Emerald City | Rare | Hold a beast with Emerald gemstone | 32 tokens |
+| Ruby Red | Rare | Hold a beast with Ruby gemstone | 30 tokens |
+| Flower Power | Rare | Hold a beast with Flower Crown | 30 tokens |
+| Crown Jewels | Epic | Hold a beast with Crown headwear | 25 tokens |
+| Sapphire Ice | Epic | Hold a beast with Sapphire gemstone | 25 tokens |
+| Gold Chain | Epic | Hold a beast with Gold chain | 15 tokens |
+| Backwards Trucker | Legendary | Hold a beast with Backwards Trucker Hat | 9 tokens |
+| Spartan | Legendary | Hold a beast with Spartan Helmet | 4 tokens |
 
 ### 8. DNA, Rares & Specials
 
 Special DNA types, the 73 unique 1/1 Rare designs (263 tokens total), and other distinctive traits.
 
-| Badge | Tier | Criteria | Tokens |
+| Badge | Tier | Criteria | Supply |
 |---|---|---|---|
-| Ink'd Up | Common | Hold a beast with any Ink (Thug 398/Tough 199/Wabori 269) | 866 |
-| Rare Breed | Uncommon | Hold any Rare (1/1 design) | 263 across 73 designs |
-| Wabori | Uncommon | Hold a beast with Wabori ink | 269 |
-| Toon Eyes | Uncommon | Hold a beast with Toon Pupils | 239 |
-| Lizard Eyes | Uncommon | Hold a beast with Lizard Pupils | 196 |
-| Zombie | Uncommon | Hold a Zombie DNA beast | 109 |
-| Starry Eyed | Rare | Hold a beast with Starry Eyeshadow | 79 |
-| Bare Bones | Rare | Hold a Bones DNA beast | 74 |
-| Vitiligo | Rare | Hold a beast with Vitiligo skin tone | 48 |
-| Legend of the East | Epic | Hold a Rare: Samurai/Ninja/Kitsune/Anime Ninja | 24 |
-| Monster Mash | Epic | Hold a Rare: Dragon/Demon/Demon Lord/Vampire/Grim Reaper/Mummy/Witch/Medusa/Yeti | 19 |
-| Heavenly | Epic | Hold a Rare: Angel/Lady Angel/Lord Angel/Fairy/Unicorn/Unicorn Star/Genie | 19 |
-| Crime Boss | Epic | Hold a Rare: Godfather/Hitman/Henchman/Detective | 10 |
-| Angel Wings | Legendary | Hold an Angel DNA beast | 9 |
-| DNA Lab | Legendary | Hold all 3 special DNAs (Zombie + Angel + Bones) in your wallet | Wallet-level (9 Angel = hard cap) |
-| Rare Pair | Legendary | Hold 2+ different Rares in your wallet | Wallet-level |
+| Ink'd Up | Common | Hold a beast with any Ink (Thug 398/Tough 199/Wabori 269) | 866 tokens |
+| Wabori | Uncommon | Hold a beast with Wabori ink | 269 tokens |
+| Rare Breed | Uncommon | Hold any Rare (1/1 design) | 263 tokens across 73 designs |
+| Toon Eyes | Uncommon | Hold a beast with Toon Pupils | 239 tokens |
+| Lizard Eyes | Uncommon | Hold a beast with Lizard Pupils | 196 tokens |
+| Zombie | Uncommon | Hold a Zombie DNA beast | 109 tokens |
+| Starry Eyed | Rare | Hold a beast with Starry Eyeshadow | 79 tokens |
+| Bare Bones | Rare | Hold a Bones DNA beast | 74 tokens |
+| Vitiligo | Rare | Hold a beast with Vitiligo skin tone | 48 tokens |
+| Legend of the East | Epic | Hold a Rare: Samurai/Ninja/Kitsune/Anime Ninja | 24 tokens |
+| Monster Mash | Epic | Hold a Rare: Dragon/Demon/Demon Lord/Vampire/Grim Reaper/Mummy/Witch/Medusa/Yeti | 19 tokens |
+| Heavenly | Epic | Hold a Rare: Angel/Lady Angel/Lord Angel/Fairy/Unicorn/Unicorn Star/Genie | 19 tokens |
+| Crime Boss | Epic | Hold a Rare: Godfather/Hitman/Henchman/Detective | 10 tokens |
+| Angel Wings | Legendary | Hold an Angel DNA beast | 9 tokens |
+| Rare Pair | Legendary | Hold 2+ different Rares in your wallet | 2 wallets |
+| DNA Lab | Legendary | Hold all 3 special DNAs (Zombie + Angel + Bones) in your wallet | 1 wallet |
 
 ### 9. Beasthood Neighborhoods
 
 21 neighborhoods, each with exactly 500 tokens (WAGMI Way has a 499/1 name variant split).
 
-| Badge | Tier | Criteria | Tokens |
+| Badge | Tier | Criteria | Supply |
 |---|---|---|---|
-| Local | Common | Hold 3+ beasts from the same Beasthood | Wallet-level (500 per hood) |
-| Block Captain | Uncommon | Hold 5+ beasts from the same Beasthood | Wallet-level |
-| MOBA Crew | Uncommon | Hold 3+ MoBA (Museum of Beast Arts) beasts | 500 MOBA tokens |
-| Beat Street Regular | Uncommon | Hold 3+ Beat Street beasts | 500 Beat Street tokens |
-| Silicon Alley Tech | Uncommon | Hold 3+ Silicon Alley beasts | 500 Silicon Alley tokens |
-| Wagmi Way | Common | Hold a WAGMI Way beast | 500 |
-| City Explorer | Rare | Hold beasts from 10+ different Beasthoods | Wallet-level (21 exist) |
-| Mayor | Legendary | Hold beasts from all 21 Beasthoods | Wallet-level |
+| Wagmi Way | Common | Hold a WAGMI Way beast | 500 tokens |
+| Local | Common | Hold 3+ beasts from the same Beasthood | 35 wallets |
+| Block Captain | Uncommon | Hold 5+ beasts from the same Beasthood | 11 wallets |
+| MOBA Crew | Uncommon | Hold 3+ MoBA (Museum of Beast Arts) beasts | 10 wallets |
+| Beat Street Regular | Uncommon | Hold 3+ Beat Street beasts | 7 wallets |
+| Silicon Alley Tech | Uncommon | Hold 3+ Silicon Alley beasts | 6 wallets |
+| City Explorer | Rare | Hold beasts from 10+ different Beasthoods | 12 wallets |
+| Mayor | Legendary | Hold beasts from all 21 Beasthoods | 0 wallets |
 
 ### 10. Collection Milestones
 
 Wallet-level badges based on how many beasts you hold and how long you've held them.
 
-| Badge | Tier | What You Did | Qualifying Wallets |
+| Badge | Tier | What You Did | Supply |
 |---|---|---|---|
-| First Beast | Common | Hold your first Genesis Beast | Every holder |
-| Pack Builder | Common | Hold 5 Genesis Beasts | ~1,650 wallets |
-| Pack Leader | Uncommon | Hold 10 Genesis Beasts | ~671 wallets |
-| Beast Hoard | Rare | Hold 20 Genesis Beasts | ~241 wallets |
-| Beast Whale | Legendary | Hold 50 Genesis Beasts | ~57 wallets |
-| Hommage Holder | Legendary | Hold a Hommage Beast | Ultra-rare custom 1/1s |
+| First Beast | Common | Hold your first Genesis Beast | 3,057 wallets |
+| Pack Builder | Common | Hold 5 Genesis Beasts | 323 wallets |
 | BitBeast Collector | Common | Hold 5 BitBeasts | Cross-collection |
-| BitBeast Pack | Uncommon | Hold 15 BitBeasts | Committed BitBeast collector |
+| Pack Leader | Uncommon | Hold 10 Genesis Beasts | 138 wallets |
+| BitBeast Pack | Uncommon | Hold 15 BitBeasts | Cross-collection |
+| Beast Hoard | Rare | Hold 20 Genesis Beasts | 51 wallets |
+| Beast Whale | Legendary | Hold 50 Genesis Beasts | 13 wallets |
+| Hommage Holder | Legendary | Hold a Hommage Beast | Ultra-rare custom 1/1s |
 
 ### 11. Cross-Collection
 
 | Badge | Tier | Criteria |
 |---|---|---|
 | Dual Citizen | Uncommon | Hold 1 Genesis + 1 BitBeast |
-| Triple Threat | Epic | Hold Genesis + BitBeast + Bisuto (when Bisuto launches) |
+| Digital Twin | Uncommon | Hold a Genesis Beast + its corresponding BeastMart merch item |
 | Merch Beast | Rare | Hold 3+ BeastMart digital twins |
 | IRL Beast | Rare | Hold Physical Edition figurine NFT |
+| Triple Threat | Epic | Hold Genesis + BitBeast + Bisuto (when Bisuto launches) |
 | Shelf Game | Epic | Hold 3+ Physical Edition figurines |
-| Digital Twin | Uncommon | Hold a Genesis Beast + its corresponding BeastMart merch item |
 | Full Ecosystem | Legendary | Hold Genesis + BitBeast + BeastMart + Physical + Hommage |
 
 ### 12. Market Behavior
 
 Validated against 38,153 sales records spanning January 2023 to January 2026, covering 10,748 unique buyer wallets and 15,444 unique seller wallets.
 
-| Badge | Tier | Criteria | Supporting Data |
+| Badge | Tier | Criteria | Supply (current holders) |
 |---|---|---|---|
-| Floor Sweeper | Uncommon | Buy 5+ at floor price | Tracked going forward |
-| Sweep King | Rare | Buy 10+ at floor price | Tracked going forward |
-| Diamond Hands | Rare | Held 6+ months, zero sales | 2,770 buy-only wallets |
-| Conviction | Rare | Never sold any Genesis Beast | 2,770 wallets never appear as seller |
-| Year One | Epic | Held the same beast for 1+ year straight | Sales data spans 3 years — verifiable |
-| OG Beast | Epic | Wallet bought Genesis Beasts before July 2023 | 7,892 wallets qualify |
-| Good Flip | Uncommon | Sold a beast for 2x+ what you paid | 2,855 flips detected |
-| Whale Trade | Rare | Single sale above 1 ETH | 6,948 sales above 1 ETH |
+| Good Flip | Uncommon | Sold a beast for 2x+ what you paid | 183 wallets (2,844 qualifying sales historically) |
+| Floor Sweeper | Uncommon | Buy 5+ at floor price | 48 wallets |
+| Diamond Hands | Rare | Bought on secondary, never sold | 1,122 wallets |
+| Conviction | Rare | Never sold any Genesis Beast | 1,122 wallets |
+| Whale Trade | Rare | Involved in a sale above 1 ETH | 571 wallets (6,948 qualifying sales historically) |
+| Sweep King | Rare | Buy 10+ at floor price | 23 wallets |
+| OG Beast | Epic | Bought before July 2023 and still holding | 1,032 wallets |
+| Year One | Epic | Held the same beast for 1+ year straight | 5 wallets* |
+
+*\*Year One count is a lower bound — only tracks wallets that bought on secondary. Original minters who held 1+ year are not captured in sales data and will be verified via on-chain transfer history at launch.*
 
 ### 13. Community & IRL
 
@@ -340,10 +310,10 @@ These require admin verification. Criteria should be as objective and verifiable
 
 | Badge | Tier | Criteria |
 |---|---|---|
-| IRL Verified | Rare | Physical figurine + photo proof |
+| GM Beast | Common | Daily GM poster in Discord for 30+ days — verifiable from logs |
 | Beast Creator | Uncommon | Created community content (videos, threads, edits) — admin verified |
 | Beast Family | Uncommon | Referred or onboarded a new holder — admin verified |
-| GM Beast | Common | Daily GM poster in Discord for 30+ days — verifiable from logs |
+| IRL Verified | Rare | Physical figurine + photo proof |
 | Event Beast | Rare | Attended an IRL AKCB event or meetup — admin verified |
 
 ### 14. Beastside Game
@@ -354,18 +324,18 @@ When the game launches, badges create a loop: **hold traits -> use skins -> earn
 |---|---|---|
 | First Blood | Common | Win your first match |
 | Beast Warrior | Uncommon | Win 10 matches |
-| Veteran | Rare | Win 50 matches |
 | Map Explorer | Uncommon | Play 3+ different map types |
+| Road Warrior | Uncommon | Get a vehicle kill |
+| Zipline Ace | Uncommon | Get a kill on a zipline |
+| Demolition Beast | Uncommon | Destroy 10 buildings in one match |
+| Veteran | Rare | Win 50 matches |
 | Squad Leader | Rare | Win 5 team matches |
-| Champion | Epic | Top 10 on seasonal leaderboard |
 | Cowboy Showdown | Rare | Win using a Cowboy-themed skin |
 | Mutant Mayhem | Rare | Win using a Zombie/Angel/Bones skin |
 | Suited Up | Rare | Win using a full Suit skin |
 | Dark Knight | Rare | Win on medieval map with Medieval balaclava skin |
-| Road Warrior | Uncommon | Get a vehicle kill |
-| Zipline Ace | Uncommon | Get a kill on a zipline |
-| Demolition Beast | Uncommon | Destroy 10 buildings in one match |
 | Air Beast | Rare | Get a kill while airborne |
+| Champion | Epic | Top 10 on seasonal leaderboard |
 
 ### 15. Seasonal & Limited-Time
 
@@ -373,10 +343,10 @@ Only available during specific windows.
 
 | Badge | Tier | Criteria |
 |---|---|---|
-| Genesis Day | Rare | Hold a beast on the collection's anniversary |
 | Holiday Beast | Uncommon | Hold a Rare Santa, Present, or Elf on December 25 (9 tokens qualify) |
-| Beta Tester | Epic | Play Beastside during alpha/beta |
+| Genesis Day | Rare | Hold a beast on the collection's anniversary |
 | Launch Day | Rare | Claim a badge within 24 hours of Beast Badges going live |
+| Beta Tester | Epic | Play Beastside during alpha/beta |
 
 ---
 
