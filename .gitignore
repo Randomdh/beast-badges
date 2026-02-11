@@ -9,3 +9,6 @@ coverage/
 coverage.json
 CRITIQUE.md
 PROPOSAL.md
+*.js
+*.txt
+.claude/
