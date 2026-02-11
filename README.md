@@ -113,12 +113,12 @@ The face IS the beast. 24 distinct balaclava types exist across the 10,000-token
 | Class Clown | Common | Hold a beast with Clown balaclava | 382 tokens |
 | Skull Squad | Uncommon | Hold a beast with Skull balaclava | 333 tokens |
 | Wolf Pack | Uncommon | Hold a beast with Wolf balaclava | 313 tokens |
-| Zoo Keeper | Rare | Hold 5+ different balaclava types across your wallet | 63 wallets |
+| Zoo Keeper | Rare | Hold 5+ different balaclava types across your wallet | 245 wallets |
 | Knight's Watch | Epic | Hold a beast with Medieval balaclava | 40 tokens |
 | Brown & Cream | Epic | Hold a beast with Brown & Cream balaclava | 11 tokens |
-| Face Off | Epic | Hold 10+ different balaclava types across your wallet | 11 wallets |
+| Face Off | Epic | Hold 10+ different balaclava types across your wallet | 63 wallets |
 | Custom Panda | Legendary | Hold a Custom Female Hippies Tan Panda beast | 7 tokens |
-| Face Collector | Legendary | Hold all 4 premium balaclavas (Ape/Robot/Wolf/Medieval) | 1 wallet |
+| Face Collector | Legendary | Hold all 4 premium balaclavas (Ape/Robot/Wolf/Medieval) | 7 wallets |
 
 ### 2. Rare Styles
 
@@ -197,8 +197,8 @@ Specific outfit combinations that tell a story. Every combo below has been verif
 | Shutterbug | Uncommon | Hold a beast with Camera or Polaroid | 167 tokens |
 | Money Moves | Uncommon | Hold a beast with Money Stacks, Gold Bars, or Money Bag | 146 tokens |
 | Sports Beast | Uncommon | Hold a beast with sports equipment | 123 tokens |
-| Sneakerhead | Uncommon | Hold beasts with 5+ different footwear types across your wallet | 20 wallets |
-| Snack Attack | Uncommon | Hold beasts with 3+ different food/drink items across your wallet | 4 wallets |
+| Sneakerhead | Uncommon | Hold beasts with 5+ different footwear types across your wallet | 109 wallets |
+| Snack Attack | Uncommon | Hold beasts with 3+ different food/drink items across your wallet | 16 wallets |
 | Crypto Native | Rare | Hold a beast with Bitcoin or Ethereum accessory | 90 tokens |
 | Vandal | Rare | Hold a beast with Spray Can | 45 tokens |
 
@@ -242,8 +242,8 @@ Special DNA types, the 73 unique 1/1 Rare designs (263 tokens total), and other 
 | Heavenly | Epic | Hold a Rare: Angel/Lady Angel/Lord Angel/Fairy/Unicorn/Unicorn Star/Genie | 19 tokens |
 | Crime Boss | Epic | Hold a Rare: Godfather/Hitman/Henchman/Detective | 10 tokens |
 | Angel Wings | Legendary | Hold an Angel DNA beast | 9 tokens |
-| Rare Pair | Legendary | Hold 2+ different Rares in your wallet | 2 wallets |
-| DNA Lab | Legendary | Hold all 3 special DNAs (Zombie + Angel + Bones) in your wallet | 1 wallet |
+| Rare Pair | Legendary | Hold 2+ different Rares in your wallet | 41 wallets |
+| DNA Lab | Legendary | Hold all 3 special DNAs (Zombie + Angel + Bones) in your wallet | 3 wallets |
 
 ### 9. Beasthood Neighborhoods
 
@@ -252,13 +252,13 @@ Special DNA types, the 73 unique 1/1 Rare designs (263 tokens total), and other 
 | Badge | Tier | Criteria | Supply |
 |---|---|---|---|
 | Wagmi Way | Common | Hold a WAGMI Way beast | 500 tokens |
-| Local | Common | Hold 3+ beasts from the same Beasthood | 35 wallets |
-| Block Captain | Uncommon | Hold 5+ beasts from the same Beasthood | 11 wallets |
-| MOBA Crew | Uncommon | Hold 3+ MoBA (Museum of Beast Arts) beasts | 10 wallets |
-| Beat Street Regular | Uncommon | Hold 3+ Beat Street beasts | 7 wallets |
-| Silicon Alley Tech | Uncommon | Hold 3+ Silicon Alley beasts | 6 wallets |
-| City Explorer | Rare | Hold beasts from 10+ different Beasthoods | 12 wallets |
-| Mayor | Legendary | Hold beasts from all 20 Beasthoods | 0 wallets |
+| Local | Common | Hold 3+ beasts from the same Beasthood | 122 wallets |
+| Block Captain | Uncommon | Hold 5+ beasts from the same Beasthood | 35 wallets |
+| MOBA Crew | Uncommon | Hold 3+ MoBA (Museum of Beast Arts) beasts | 20 wallets |
+| Beat Street Regular | Uncommon | Hold 3+ Beat Street beasts | 21 wallets |
+| Silicon Alley Tech | Uncommon | Hold 3+ Silicon Alley beasts | 25 wallets |
+| City Explorer | Rare | Hold beasts from 10+ different Beasthoods | 80 wallets |
+| Mayor | Legendary | Hold beasts from all 20 Beasthoods | 11 wallets |
 
 ### 10. Collection Milestones
 
@@ -300,9 +300,7 @@ Validated against 38,153 sales records spanning January 2023 to January 2026, co
 | Whale Trade | Rare | Involved in a sale above 1 ETH | 571 wallets (6,948 qualifying sales historically) |
 | Sweep King | Rare | Buy 10+ at floor price | 23 wallets |
 | OG Beast | Epic | Bought before July 2023 and still holding | 1,032 wallets |
-| Year One | Epic | Held the same beast for 1+ year straight | 5 wallets* |
-
-*\*Year One count is a lower bound — only tracks wallets that bought on secondary. Original minters who held 1+ year are not captured in sales data and will be verified via on-chain transfer history at launch.*
+| Year One | Epic | Held the same beast for 1+ year straight | 1,449 wallets |
 
 ### 13. Community & IRL
 
