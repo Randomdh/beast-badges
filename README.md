@@ -247,7 +247,7 @@ Special DNA types, the 73 unique 1/1 Rare designs (263 tokens total), and other 
 
 ### 9. Beasthood Neighborhoods
 
-21 neighborhoods, each with exactly 500 tokens (WAGMI Way has a 499/1 name variant split).
+20 neighborhoods, each with exactly 500 tokens (Beast #1485 has a "Wagmi Way" casing variant — normalized to WAGMI Way).
 
 | Badge | Tier | Criteria | Supply |
 |---|---|---|---|
@@ -258,7 +258,7 @@ Special DNA types, the 73 unique 1/1 Rare designs (263 tokens total), and other 
 | Beat Street Regular | Uncommon | Hold 3+ Beat Street beasts | 7 wallets |
 | Silicon Alley Tech | Uncommon | Hold 3+ Silicon Alley beasts | 6 wallets |
 | City Explorer | Rare | Hold beasts from 10+ different Beasthoods | 12 wallets |
-| Mayor | Legendary | Hold beasts from all 21 Beasthoods | 0 wallets |
+| Mayor | Legendary | Hold beasts from all 20 Beasthoods | 0 wallets |
 
 ### 10. Collection Milestones
 
