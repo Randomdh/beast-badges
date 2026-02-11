@@ -457,9 +457,9 @@ Soulbound means:
 
 Badges recognize what you've done, but you need to be in the ecosystem to receive them.
 
-**The rule: Any wallet that currently holds at least 1 Genesis Beast receives retroactive credit for all historically qualifying activity.**
+**The rule: Any wallet that currently holds at least 1 AKCB ecosystem NFT (Genesis Beast, BitBeast, Physical Edition, Hommage, or BeastMart) receives retroactive credit for all historically qualifying activity.**
 
-A holder who once had 50 beasts and scaled down to 5 still earns Beast Whale — they earned it, and they're still here. Someone who sold everything gets nothing. But if they buy back in, their history is waiting for them.
+A holder who once had 50 Genesis Beasts and scaled down to 5 still earns Beast Whale — they earned it, and they're still here. A BitBeast-only collector who once held Genesis gets retroactive credit for that history. Someone who sold everything across all collections gets nothing. But if they buy back in — even a single BitBeast — their history is waiting for them.
 
 ### How It Works by Badge Type
 
@@ -467,15 +467,16 @@ A holder who once had 50 beasts and scaled down to 5 still earns Beast Whale —
 |---|---|---|
 | **Trait-based** (Ape Gang, Blackout, Cowboy, etc.) | Current snapshot — you hold the beast with the trait now | The badge is about the token, not history |
 | **Market behavior** (Diamond Hands, OG Beast, Good Flip, etc.) | Retroactive — these measure historical commitment | A wallet that bought before July 2023 and still holds is an OG, full stop |
-| **Wallet milestones** (Pack Leader, Beast Whale, etc.) | Peak historical count, gated by current holding ≥1 | Rewards the commitment even if they've scaled down |
-| **Community & IRL** (Event Beast, Beast Creator, etc.) | Retroactive — if they did the thing, they did the thing | Gated by current holding ≥1 |
+| **Wallet milestones** (Pack Leader, Beast Whale, etc.) | Peak historical count, gated by current ecosystem holding | Rewards the commitment even if they've scaled down |
+| **Community & IRL** (Event Beast, Beast Creator, etc.) | Retroactive — if they did the thing, they did the thing | Gated by current ecosystem holding |
 | **Cross-collection** (Dual Citizen, Full Ecosystem, etc.) | Current snapshot across all contracts | Must hold qualifying tokens now |
 
 ### Why This Approach
 
 - **Rewards loyalty** — current holders get recognized for their full history
 - **No wasted mints** — zero gas spent on dead wallets, bots, or exchange addresses
-- **Subtle hold incentive** — lapsed holders with 1-2 beasts left have a reason not to sell that last one
+- **Subtle hold incentive** — lapsed holders with any ecosystem piece have a reason not to sell that last one
+- **Low barrier to re-entry** — someone priced out of Genesis can buy a BitBeast and unlock their full badge history
 - **Re-engagement hook** — "you hold 2 beasts but you've earned 15 badges you haven't seen yet"
 - **No community resentment** — people who dumped and left don't get the same recognition as those who stayed
 - **Consistent with soulbound philosophy** — badges prove you achieved something AND that you're still part of the ecosystem
