@@ -378,16 +378,37 @@ Only available during specific windows.
 
 Every badge earns XP. Total XP determines your tier.
 
-| Tier | XP | What It Could Unlock |
-|---|---|---|
-| **Bronze** | 0-249 | Badge holder recognition, basic Discord role |
-| **Silver** | 250-749 | Enhanced Discord role, B*Points bonus multiplier |
-| **Gold** | 750-1499 | Exclusive raffles, early access to drops |
-| **Diamond** | 1500+ | Governance input, top-tier perks |
+### Tier Thresholds
 
-**XP by badge tier:** Common = 25, Uncommon = 50-100, Rare = 150-200, Epic = 250-400, Legendary = 500-1000.
+| Tier | XP Range | Distribution | What It Could Unlock |
+|---|---|---|---|
+| **Bronze** | 0-299 | ~45% of holders | Badge holder recognition, basic Discord role |
+| **Silver** | 300-699 | ~43% of holders | Enhanced Discord role, B*Points bonus multiplier |
+| **Gold** | 700-1,299 | ~8% of holders | Exclusive raffles, early access to drops |
+| **Diamond** | 1,300+ | ~4% of holders | Governance input, top-tier perks |
 
-Reaching Diamond requires depth across multiple categories. No single path gets you there — this rewards the most complete ecosystem participants.
+**XP by badge tier:** Common = 25, Uncommon = 75, Rare = 175, Epic = 325, Legendary = 750.
+
+**Distribution validated against 3,053 current holders (on-chain snapshot, February 2026).** Silver tier (300-699 XP) represents the engaged collector segment — holders with 3-10 beasts who participate in market activity and have trait diversity. This creates natural trading demand as Bronze holders work toward Silver, and Silver holders compete to break into Gold.
+
+### Category-Capped XP Model
+
+Raw badge XP is capped per category to prevent inflation and reward breadth:
+
+| Category | Cap | Category | Cap |
+|---|---|---|---|
+| **Balaclava Identity** | 400 XP | **DNA/Rares** | 400 XP |
+| **Rare Styles** | 300 XP | **Neighborhoods** | 300 XP |
+| **Color Coordination** | 200 XP | **Collection Milestones** | 300 XP |
+| **Suits & Outfits** | 250 XP | **Market Behavior** | 400 XP |
+| **Accessories & Gear** | 250 XP | **Cross-Collection** | 200 XP |
+| **Community & IRL** | 200 XP | **Beastside Game** | 300 XP | **Seasonal** | 200 XP |
+
+**Max possible XP:** 3,700 (earning all 13 category caps). **Current earnable max:** ~2,800 (based on existing badge library).
+
+**Why caps?** Adding new badges to one category doesn't inflate everyone's tier. A whale who maxed Balaclava Identity (400 XP) gets no benefit from 10 new balaclava badges — they're already capped. New badges help newer holders catch up, not inflate veteran scores.
+
+Reaching Diamond (1,300+ XP) requires maxing 4-5 high-cap categories. No single path gets you there — this rewards the most complete ecosystem participants.
 
 The badge library grows over time. New badges added for new Beastside maps, seasonal events, community-proposed ideas, new collections, and IRL events.
 
@@ -530,8 +551,6 @@ Being honest about what this system can and can't do:
 **Market badges have limits.** Floor Sweeper can only be verified going forward since historical floor prices aren't stored. Some market badges are technically gameable through wash trading, but gas costs and marketplace fees are natural deterrents for badges that carry no monetary value.
 
 **Community badges need clear criteria.** Admin-attested badges require someone to decide who qualifies. Criteria should be as objective as possible — "posted GM for 30 consecutive days" is verifiable from Discord logs, "consistently active" is subjective.
-
-**XP thresholds need testing.** The tier thresholds in this proposal are initial estimates. Before launch, they should be simulated against real wallet data to get the right distribution across tiers.
 
 ---
 
