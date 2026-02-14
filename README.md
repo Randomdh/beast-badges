@@ -100,6 +100,8 @@ The launch set grows into a full library over time. Every badge below has been v
 
 ### 1. Balaclava Identity
 
+**Type: Status (revocable)** — Must currently hold beast with specified balaclava.
+
 The face IS the beast. 24 distinct balaclava types exist across the 10,000-token collection.
 
 | Badge | Tier | Criteria | Supply |
@@ -122,6 +124,8 @@ The face IS the beast. 24 distinct balaclava types exist across the 10,000-token
 
 ### 2. Rare Styles
 
+**Type: Status (revocable)** — Must currently hold beast with rare balaclava style.
+
 39 balaclava styles exist — most are common colorways, but a handful are extremely rare. These are the collector's badges.
 
 | Badge | Tier | Criteria | Supply |
@@ -139,6 +143,8 @@ The face IS the beast. 24 distinct balaclava types exist across the 10,000-token
 
 ### 3. Color Coordination
 
+**Type: Status (revocable)** — Must currently hold beast with color coordination.
+
 "Clean fit" is the highest compliment a beast gets. These badges reward color-matched builds.
 
 | Badge | Tier | Criteria | Supply |
@@ -150,6 +156,8 @@ The face IS the beast. 24 distinct balaclava types exist across the 10,000-token
 | White Out | Legendary | Hold a beast with 4+ white traits | 2 tokens |
 
 ### 4. Suits & Outfits
+
+**Type: Status (revocable)** — Must currently hold beast with specified outfit.
 
 The collection has four distinct suit systems. Each works differently in the trait data — verified below.
 
@@ -174,6 +182,8 @@ The collection has four distinct suit systems. Each works differently in the tra
 
 ### 5. Fashion Combos
 
+**Type: Status (revocable)** — Must currently hold beast with specified combo.
+
 Specific outfit combinations that tell a story. Every combo below has been verified — tokens with both traits exist.
 
 | Badge | Tier | Criteria | Supply |
@@ -186,6 +196,8 @@ Specific outfit combinations that tell a story. Every combo below has been verif
 | Lab Rat | Legendary | Hold a beast with Lab Coat + 3D Glasses | 2 tokens |
 
 ### 6. Accessories & Gear
+
+**Type: Status (revocable)** — Must currently hold beast with specified accessory.
 
 82 distinct accessories exist in the collection. These badges reward holding specific items or themed collections.
 
@@ -203,6 +215,8 @@ Specific outfit combinations that tell a story. Every combo below has been verif
 | Vandal | Rare | Hold a beast with Spray Can | 45 tokens |
 
 ### 7. Gemstones, Chains & Crowns
+
+**Type: Status (revocable)** — Must currently hold beast with specified jewelry/headwear.
 
 The bling. Four gemstone types, two chain types, and three crown variants exist.
 
@@ -223,6 +237,8 @@ The bling. Four gemstone types, two chain types, and three crown variants exist.
 | Spartan | Legendary | Hold a beast with Spartan Helmet | 4 tokens |
 
 ### 8. DNA, Rares & Specials
+
+**Type: Status (revocable)** — Must currently hold beast with special DNA or Rare.
 
 Special DNA types, the 73 unique 1/1 Rare designs (263 tokens total), and other distinctive traits.
 
@@ -247,6 +263,8 @@ Special DNA types, the 73 unique 1/1 Rare designs (263 tokens total), and other 
 
 ### 9. Beasthood Neighborhoods
 
+**Type: Status (revocable)** — Must currently hold beast from specified neighborhood.
+
 20 neighborhoods, each with exactly 500 tokens (Beast #1485 has a "Wagmi Way" casing variant — normalized to WAGMI Way).
 
 | Badge | Tier | Criteria | Supply |
@@ -261,6 +279,8 @@ Special DNA types, the 73 unique 1/1 Rare designs (263 tokens total), and other 
 | Mayor | Legendary | Hold beasts from all 20 Beasthoods | 11 wallets |
 
 ### 10. Collection Milestones
+
+**Type: Status (revocable)** — Must currently hold specified number of beasts.
 
 Wallet-level badges based on how many beasts you hold and how long you've held them.
 
@@ -277,6 +297,8 @@ Wallet-level badges based on how many beasts you hold and how long you've held t
 
 ### 11. Cross-Collection
 
+**Type: Status (revocable)** — Must currently hold specified cross-collection items.
+
 | Badge | Tier | Criteria |
 |---|---|---|
 | Dual Citizen | Uncommon | Hold 1 Genesis + 1 BitBeast |
@@ -288,6 +310,8 @@ Wallet-level badges based on how many beasts you hold and how long you've held t
 | Full Ecosystem | Legendary | Hold Genesis + BitBeast + BeastMart + Physical + Hommage |
 
 ### 12. Market Behavior
+
+**Type: Achievement (permanent)** — Earned from historical trading actions, cannot be revoked.
 
 Validated against 38,153 sales records spanning January 2023 to January 2026, covering 10,748 unique buyer wallets and 15,444 unique seller wallets.
 
@@ -304,6 +328,8 @@ Validated against 38,153 sales records spanning January 2023 to January 2026, co
 
 ### 13. Community & IRL
 
+**Type: Achievement (permanent)** — Earned from past participation, cannot be revoked.
+
 These require admin verification. Criteria should be as objective and verifiable as possible.
 
 | Badge | Tier | Criteria |
@@ -315,6 +341,8 @@ These require admin verification. Criteria should be as objective and verifiable
 | Event Beast | Rare | Attended an IRL AKCB event or meetup — admin verified |
 
 ### 14. Beastside Game
+
+**Type: Achievement (permanent)** — Earned from in-game performance, cannot be revoked.
 
 When the game launches, badges create a loop: **hold traits -> use skins -> earn badges -> level up.**
 
@@ -337,6 +365,8 @@ When the game launches, badges create a loop: **hold traits -> use skins -> earn
 
 ### 15. Seasonal & Limited-Time
 
+**Type: Achievement (permanent)** — Earned during time windows, cannot be revoked.
+
 Only available during specific windows.
 
 | Badge | Tier | Criteria |
@@ -345,6 +375,37 @@ Only available during specific windows.
 | Genesis Day | Rare | Hold a beast on the collection's anniversary |
 | Launch Day | Rare | Claim a badge within 24 hours of Beast Badges going live |
 | Beta Tester | Epic | Play Beastside during alpha/beta |
+
+### 16. Unconventional Trader (Inversion Badges)
+
+**Type: Status (revocable)**
+
+These badges celebrate unconventional collecting strategies — making the "shittiest trait the most prized possession."
+
+| Badge | Tier | Criteria | Supply (current holders) |
+|---|---|---|---|
+| **Floor Legend** | Rare | Own 10+ beasts bought at floor price (within 10% of monthly floor at purchase) | TBD (sales history analysis) |
+| **Pooch Pack** | Uncommon | Own 5+ beasts with Pooch balaclava | 866 tokens ÷ 5 = ~173 qualify |
+| **Common Royalty** | Epic | Earn 500+ XP using only Common-tier badges | TBD (simulation required) |
+| **Plain Jane Collector** | Rare | Own 10+ beasts with zero premium traits (no traits >50% median premium) | TBD (trait premium analysis) |
+| **Underdog Champion** | Uncommon | Own 5+ beasts from the bottom 2000 by composite score | TBD (token score data) |
+| **Chaos Collector** | Rare | Own 5+ beasts with 0 color coordination (all different trait colors) | TBD (trait analysis) |
+| **Contrarian** | Uncommon | Own 5+ beasts with traits that were cooling (negative velocity) at purchase | TBD (requires velocity tracking) |
+
+### 17. Taste & Curation
+
+**Type: Achievement (permanent)**
+
+These badges recognize buying BEFORE it was cool — proof of taste, not just holdings.
+
+| Badge | Tier | Criteria | Supply |
+|---|---|---|---|
+| **Early Adopter** | Rare | Bought a trait 3+ months before it entered top 50% grail velocity | TBD (requires historical velocity data) |
+| **Sleeper Hit** | Epic | Bought a trait 6+ months before it entered top 20 grail scores AND owned <15% of that trait's supply | TBD (anti-carpet-bomb provision) |
+| **Trend Setter** | Legendary | First wallet to own a specific trait combo that 10+ wallets later copied | TBD (combo pattern matching) |
+| **Value Hunter** | Rare | Bought 5+ beasts that later increased 3x+ in floor-relative value within 6 months | TBD (requires price tracking) |
+
+**Data requirements:** These badges require historical price/velocity tracking. Implementation in Phase 2 after core system launches.
 
 ---
 
@@ -367,10 +428,13 @@ Only available during specific windows.
 | Community & IRL | 5 | Admin attestation |
 | Beastside Game | 14 | Game event hooks |
 | Seasonal & Limited | 4 | Time-gated snapshots |
-| **Total** | **135** | |
+| Unconventional Trader | 7 | Sales history + trait analysis |
+| Taste & Curation | 4 | Historical price/velocity tracking |
+| **Total** | **146** | |
 
 **Phase 1 launch (trait-based, no dependencies): 81 badges**
-**Phase 1 launch set (recommended first 20): See above**
+**Phase 2 expansion (market behavior, inversion, taste): 65 badges**
+**Phase 1 launch set (recommended first 20): See "Launch Set" above**
 
 ---
 
@@ -402,9 +466,11 @@ Raw badge XP is capped per category to prevent inflation and reward breadth:
 | **Color Coordination** | 200 XP | **Collection Milestones** | 300 XP |
 | **Suits & Outfits** | 250 XP | **Market Behavior** | 400 XP |
 | **Accessories & Gear** | 250 XP | **Cross-Collection** | 200 XP |
-| **Community & IRL** | 200 XP | **Beastside Game** | 300 XP | **Seasonal** | 200 XP |
+| **Community & IRL** | 200 XP | **Beastside Game** | 300 XP |
+| **Seasonal** | 200 XP | **Unconventional Trader** | 300 XP |
+| **Taste & Curation** | 250 XP | | |
 
-**Max possible XP:** 3,700 (earning all 13 category caps). **Current earnable max:** ~2,800 (based on existing badge library).
+**Max possible XP:** 4,250 (earning all 15 category caps). **Current earnable max:** ~2,800 (Phase 1), ~3,400 (Phase 2 with all categories).
 
 **Why caps?** Adding new badges to one category doesn't inflate everyone's tier. A whale who maxed Balaclava Identity (400 XP) gets no benefit from 10 new balaclava badges — they're already capped. New badges help newer holders catch up, not inflate veteran scores.
 
@@ -430,35 +496,86 @@ Some badges are manually tiered where the criteria warrants it (e.g., Knight's W
 
 ---
 
-## Why Soulbound
+## Badge Types: Achievement vs Status
 
-Badges that can be traded stop being proof of anything. You could just buy "Diamond Hands" on OpenSea.
+All badges are **non-transferable** (can't be sold), but they fall into two categories with different permanence rules:
 
-Soulbound means:
-- **Earned, not bought** — the badge is proof you did the thing
-- **Identity, not speculation** — your badges ARE your AKCB identity
-- **Fair** — whales earn more through holding, but many badges reward behavior anyone can do (First Beast, GM Beast, Floor Sweeper)
-- **TGE-ready** — if a token ever launches, XP from soulbound badges is a credibly fair allocation method that can't be gamed through secondary markets
+### 🏆 Achievement Badges (Permanent Soulbound)
+
+**Orange frame.** These recognize historical milestones — things you did in the past that can't be undone.
+
+**Rules:**
+- Mint once, stay forever
+- Can never be revoked or removed
+- XP counts toward your total permanently
+- Proof of past commitment
+
+**Examples:** OG Holder, Diamond Hands, Good Flip, Floor Sweeper, Sleeper Hit, Event attendance
+
+### ⚡ Status Badges (Revocable)
+
+**Blue frame.** These reflect your current holdings and collection state.
+
+**Rules:**
+- Auto-mint weekly when you qualify
+- Auto-revoke weekly when you no longer qualify (sell the trait/beast)
+- XP counts only while badge is active
+- Proof of current commitment
+
+**Examples:** Ape Gang, Pack Leader, Face Collector, Blackout, all trait-based badges
+
+### Why This Hybrid Model?
+
+**Prevents farm-and-dump:** Can't buy 100 beasts, earn all badges, sell everything, and keep benefits. Status badges revoke when you sell.
+
+**Preserves achievements:** Historical milestones (OG Holder, Diamond Hands) stay permanent — you earned them.
+
+**Honest leaderboard:** Your badge wall and XP total reflect what you currently hold + what you've historically achieved.
+
+**Dynamic competition:** Active collectors with 20 beasts can compete with (and surpass) inactive whales who sold down to 5.
+
+### Weekly Snapshots
+
+Every Monday at 00:00 UTC:
+- System reads all wallet holdings
+- Status badges auto-mint for newly qualifying wallets
+- Status badges auto-revoke for wallets that sold qualifying assets
+- Achievement badges never touched (immutable once earned)
+- XP totals recalculate, tiers update
+
+**Batched execution = minimal gas costs shared across all holders.**
 
 ---
 
-## Retroactive Issuance
+## Retroactive Issuance & Eligibility
 
-Badges recognize what you've done, but you need to be in the ecosystem to receive them.
+**Gate requirement:** Any wallet that currently holds at least 1 AKCB ecosystem NFT (Genesis Beast, BitBeast, Physical Edition, Hommage, or BeastMart) is eligible for badges.
 
-**The rule: Any wallet that currently holds at least 1 AKCB ecosystem NFT (Genesis Beast, BitBeast, Physical Edition, Hommage, or BeastMart) receives retroactive credit for all historically qualifying activity.**
+### How Eligibility Works
 
-A holder who once had 50 Genesis Beasts and scaled down to 5 still earns Beast Whale — they earned it, and they're still here. A BitBeast-only collector who once held Genesis gets retroactive credit for that history. Someone who sold everything across all collections gets nothing. But if they buy back in — even a single BitBeast — their history is waiting for them.
-
-### How It Works by Badge Type
-
-| Badge Type | Rule | Rationale |
+| Badge Category | Qualification Rules | Example |
 |---|---|---|
-| **Trait-based** (Ape Gang, Blackout, Cowboy, etc.) | Current snapshot — you hold the beast with the trait now | The badge is about the token, not history |
-| **Market behavior** (Diamond Hands, OG Beast, Good Flip, etc.) | Retroactive — these measure historical commitment | A wallet that bought before July 2023 and still holds is an OG, full stop |
-| **Wallet milestones** (Pack Leader, Beast Whale, etc.) | Peak historical count, gated by current ecosystem holding | Rewards the commitment even if they've scaled down |
-| **Community & IRL** (Event Beast, Beast Creator, etc.) | Retroactive — if they did the thing, they did the thing | Gated by current ecosystem holding |
-| **Cross-collection** (Dual Citizen, Full Ecosystem, etc.) | Current snapshot across all contracts | Must hold qualifying tokens now |
+| **Achievement** (permanent) | Retroactive — if you did it historically and still hold ≥1 ecosystem asset, you qualify | OG Holder: Bought before July 2023 and still holds any AKCB NFT |
+| **Status** (revocable) | Current snapshot — must hold qualifying asset NOW | Ape Gang: Must currently hold a beast with Ape balaclava |
+
+**Key scenarios:**
+
+✅ **Scaled down holder:** Once had 50 beasts, now holds 5
+- Gets: All Achievement badges from history (OG Holder, Good Flip, etc.)
+- Gets: Status badges for current 5 beasts only
+- Lost: Status badges from the 45 they sold
+
+✅ **Returning holder:** Sold everything in 2024, bought back 1 BitBeast in 2026
+- Gets: All Achievement badges from Genesis history unlocked
+- Gets: Current Status badges for holdings
+- Barrier to re-entry: Just 1 BitBeast (~$10) to restore full badge history
+
+❌ **Full exit:** Sold everything across all collections
+- Gets: Nothing (no ecosystem holding = no badge eligibility)
+
+✅ **BitBeast-only collector:** Never owned Genesis, only BitBeast
+- Gets: Achievement/Status badges from BitBeast holdings
+- Cross-collection badges require Genesis + BitBeast
 
 ### Why This Approach
 
@@ -469,6 +586,118 @@ A holder who once had 50 Genesis Beasts and scaled down to 5 still earns Beast W
 - **Re-engagement hook** — "you hold 2 beasts but you've earned 15 badges you haven't seen yet"
 - **No community resentment** — people who dumped and left don't get the same recognition as those who stayed
 - **Consistent with soulbound philosophy** — badges prove you achieved something AND that you're still part of the ecosystem
+
+---
+
+## Tier Benefits & Anti-Gaming
+
+Your badge wall shows your earned tier (Bronze/Silver/Gold/Diamond) based on total XP. **BUT** certain tier benefits require minimum holdings to prevent farm-and-dump exploitation.
+
+### Tier Benefits Require Minimum Holdings
+
+| Tier | Badge Wall Status | To Receive Tier Benefits* |
+|---|---|---|
+| **Bronze** | Shows always if earned | Hold 1+ AKCB asset |
+| **Silver** | Shows always if earned | Hold 3+ Genesis OR 10+ BitBeast |
+| **Gold** | Shows always if earned | Hold 10+ Genesis OR 30+ BitBeast |
+| **Diamond** | Shows always if earned | Hold 25+ Genesis OR 75+ BitBeast |
+
+**\*Tier benefits = B*Points multipliers, exclusive raffles, governance input, etc.**
+
+**Example:**
+- Whale earns Diamond tier (2,600 XP, 80 badges)
+- Sells down to 5 Genesis beasts
+- Badge wall: Still shows "Diamond Tier" with all 80 badges (social flex intact)
+- B*Points multiplier: Gets Silver benefits (1.5x) because only holds 5 beasts
+- Raffle access: Silver-tier raffles, not Diamond
+- If re-buys to 25: Diamond benefits automatically restore
+
+### What This Prevents
+
+❌ **Farm-and-dump:** Buy 100 beasts → earn Diamond → sell 95 → keep 3.0x multiplier
+❌ **Capital rotation:** Use same capital to farm badges across multiple wallets
+❌ **Inactive whales:** Collect all badges, exit ecosystem, keep permanent advantage
+
+✅ **What it preserves:** Social status, achievement history, trophy case permanence
+
+### B*Points Integration
+
+**Current B*Points system:**
+- Genesis: 10 pts/day base
+- BitBeast: 1 pt/day base
+- Royalty bonus: +5 pts/day per Genesis with royalties paid
+
+**Proposed badge-driven system:**
+
+| Component | How It Works |
+|---|---|
+| **Base rate** | Unchanged (10/day Genesis, 1/day BitBeast) |
+| **Tier multiplier** | Bronze 1.25x, Silver 1.5x, Gold 2.0x, Diamond 3.0x |
+| **Royalty badge** | "Royalty Supporter" badge (auto-award for any royalty-paid purchase) grants +5 pts/day per Genesis |
+
+**Example calculations:**
+
+**Bronze holder:** 3 Genesis, no royalty badge
+- Base: 3 × 10 = 30/day
+- Bronze multiplier: 30 × 1.25 = 37.5/day
+
+**Silver holder:** 5 Genesis, Royalty badge
+- Base: 5 × 10 = 50/day
+- Silver multiplier: 50 × 1.5 = 75/day
+- Royalty bonus: 5 × 5 = +25/day
+- **Total: 100 pts/day**
+
+**Diamond holder:** 25 Genesis, Royalty badge
+- Base: 25 × 10 = 250/day
+- Diamond multiplier: 250 × 3.0 = 750/day
+- Royalty bonus: 25 × 5 = +125/day
+- **Total: 875 pts/day**
+
+**Impact:** Engaged Diamond collectors earn ~12x more than passive Bronze holders (875 vs 37.5). Current system: 5x max (75 vs 15).
+
+### Anti-Gaming Protections
+
+| Attack Vector | Protection | How It Works |
+|---|---|---|
+| **Wash trading** | 30-day hold requirement + gas costs | Market behavior badges require 30-day hold before qualification. Gas + fees make wash trading uneconomical for non-monetary badges. |
+| **Multi-wallet farming** | Math doesn't favor it | 1 wallet with 100 beasts earns more than 10 wallets with 10 each due to tier multiplier curve. |
+| **Temporary qualification** | Status badges revoke | Buy Ape balaclava → claim badge → sell → badge burns next Monday. |
+| **Cross-wallet badge shopping** | Weekly snapshots | Can't hold trait Monday, transfer Tuesday, claim badge Wednesday. Snapshot checks holdings at qualification time. |
+| **Artist self-minting** | Smart contract enforcement | Artists can't mint their own designed badges. Badges only mint to wallets that meet qualification criteria. |
+| **Floor manipulation** | Percentile-based floor | Floor badges use 10th percentile price + 10% buffer, not literal floor price. Hard to manipulate. |
+| **Trait speculation** | Purchase timestamp cap | "Sleeper Hit" badge requires buying BEFORE trait pumped AND owning <15% of supply (prevents carpet-bomb buying). |
+
+---
+
+## Mint Fee Model
+
+**Each badge costs to mint.** Revenue split:
+- **50% to badge artist** (ongoing royalty for their design work)
+- **50% to community infrastructure** (covers hosting, gas, development, operations)
+
+### Tiered Pricing by Badge Rarity
+
+| Badge Tier | Mint Fee | Artist Gets | Infrastructure Gets |
+|---|---|---|---|
+| **Common** | $0.25 | $0.125 | $0.125 |
+| **Uncommon** | $0.50 | $0.25 | $0.25 |
+| **Rare** | $1.00 | $0.50 | $0.50 |
+| **Epic** | $2.00 | $1.00 | $1.00 |
+| **Legendary** | $5.00 | $2.50 | $2.50 |
+
+**Average collector cost (20 badges at launch):**
+- 8 Common ($2) + 6 Uncommon ($3) + 4 Rare ($4) + 2 Epic ($4) = **~$13 total**
+
+**Active collector over time (50 badges):**
+- 15 Common ($3.75) + 18 Uncommon ($9) + 10 Rare ($10) + 5 Epic ($10) + 2 Legendary ($10) = **~$43 total**
+
+**Why tiered pricing works:**
+- Common badges stay accessible (quarter per badge)
+- Legendary badges feel premium ($5 = meaningful)
+- Artists earn meaningful revenue (Legendary design with 100 mints = $250)
+- Community infrastructure funded sustainably
+
+**Status badge re-minting:** If you earn a Status badge, sell the trait, then re-buy the trait later, you must pay the mint fee again (incentivizes holding).
 
 ---
 
